@@ -1,4 +1,3 @@
 # feec-seminar-comp-eng.github.io
-Repository for the Seminar Class
-
-test
+Test Page
+https://ia377-feec-unicamp.netlify.app/

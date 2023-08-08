@@ -1,0 +1,22 @@
+<div style="display: flex;" >
+    <iframe src="{{ .Get 0 }}" width="800" height="600"></iframe>
+</div>
+
+<script>
+    var fullscreenButton = document.getElementById('fullscreen');
+    var iframe = document.getElementById('centered-iframe');
+
+    if (fullscreenButton && iframe) {
+        fullscreenButton.addEventListener('click', function() {
+            if (iframe.requestFullscreen) {
+                iframe.requestFullscreen();
+            } else if (iframe.mozRequestFullScreen) { /* Firefox */
+                iframe.mozRequestFullScreen();
+            } else if (iframe.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
+                iframe.webkitRequestFullscreen();
+            } else if (iframe.msRequestFullscreen) { /* IE/Edge */
+                iframe.msRequestFullscreen();
+            }
+        });
+    }
+</script>
