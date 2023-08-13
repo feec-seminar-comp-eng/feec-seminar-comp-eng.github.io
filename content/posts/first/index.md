@@ -2,6 +2,8 @@
 title: "Radar Conecte-se"
 date: 2023-07-25T10:28:05-03:00
 draft: false
+series: ["Seminars"]
+series_order: 1
 ---
 
 ## Abstract
