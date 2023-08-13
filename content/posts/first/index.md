@@ -1,40 +1,25 @@
 ---
-title: "Radar Conecte-se"
-date: 2023-07-25T10:28:05-03:00
+title: "First Talk"
+date: 2023-07-30T20:40:45-03:00
 draft: false
+tags: ["computer network management","computer network security","protocols","resource allocation","network planning","traffic"]
 series: ["Seminars"]
 series_order: 1
 ---
 
 ## Abstract
 
-O Radar Conecte-se ao Novo 2023 apresenta uma análise de 20 tecnologias selecionadas com base em exemplos de pesquisas e relatórios internacionais, nas edições anteriores do relatório e, também, na própria experiência do CPQD. Essas tecnologias foram agrupadas em quatro temas: Rede e Conectividade, Inteligência Artificial, Confiança, Privacidade e Segurança e Computação Avançada.
 
-A pesquisa, conduzida em 2022, contou com a participação de clientes, parceiros e diversos atores do ecossistema de inovação com os quais o CPQD mantém relacionamento no país. A grande maioria dos respondentes ocupam cargos executivos (diretor, presidente, vice-presidente, C-Level e gerentes) em empresas de vários setores. Entre os setores  representados na pesquisa, destacam-se Tecnologia da Informação, telecomunicações, indústria, agronegócio, academia e utilities.
+## Bio
+<img alt="Harvey Newman bio picture" src="/posts/first/harvey_newman_white_bkg.png" style="width: 40%; height: 160x;">
 
-Para cada uma das 20 tecnologias selecionadas, o Radar Conecte-se ao Novo traz a avaliação de sua maturidade tecnológica (emergente, nascente, inicial ou convencional), o impacto previsto (baixo, médio, alto ou disruptivo) e o prazo para sua adoção (0 a 2 anos, 3 a 5 anos, ou mais de 5 anos). A representação visual e a segmentação dos resultados da pesquisa por setor econômico facilitam a análise dos cenários e tendências sobre as novas tecnologias. E, em cada bloco temático, especialistas do CPQD comentam os principais destaques na área.
+*Harvey Newman. Professor of Physics at California Institute of Technology (Caltech)*
+*Contact:* `newman@hep.caltech.edu`
 
-Em Rede e Conectividade, por exemplo, um dos destaques é a tecnologia 6G, que aparece no Radar com expectativa de disponibilidade em um horizonte de médio prazo. Inteligência Artificial das Coisas (AIoT) é outra tendência tecnológica analisada no trabalho. E, em Computação Avançada, destacam-se as tecnologias de Computação Quântica e Experiência Imersiva – Metaverso, entre outras.
+Harvey Newman received the Sc.D. degree from MIT in 1974. From 1973 to 1974, he co-led the team that discovered fourth quark flavor known as charm. He co-led the MARK J Collaboration that discovered the gluon, the carrier of the strong force in 1979. Since 1982, he has been a Faculty Member with the California Institute of Technology (Caltech), where he is currently the Marvin L. Goldberger Professor of physics. He has been leading a role in originating, developing, and operating state of the art international networks and collaborative systems serving the high energy and nuclear physics communities since 1982. He served on the IETF and the Technical Advisory Group that led to the NSFNet from 1985 to 1986, originated the worldwide LHC Computing Model in 1996, and has been leading the science and network engineering teams defining the state of the art in long distance data transfers since 2002. Since 1994, he has been a member of CMS that discovered the Higgs boson at LHC in 2012.
 
-### Bio 
+## Resources and Materials
 
-<img alt="Paulo Curado CPQD Foto bio" src="https://media.datacenterdynamics.com/media/images/Paulo_Curado_-_CPQD.2e16d0ba.fill-200x200.jpg"  style="width: 200px; height: 200px;">
-
-*Paulo Jose Pereira Curado. Diretor de Inovação, CPQD.*
-
-Possui graduação em Engenharia Mecânica pela Universidade Estadual de Campinas (1985), 
-especialização em Gestão de Qualidade Industrial pela U nicamp (1991) e MBA em Gestão Empresarial pela Fundação Getúlio Vargas (2002). 
-Profissional de Inovação, com ampla experiência em P&D nas áreas de Telecomunicações e Tecnologia de Informação e Comunicação. Tem formação acadêmica em reconhecidas instituições de ensino e carreira construída na Fundação CPqD, o maior Centro de Pesquisa e Desenvolvimento em Tecnologia de Informação e Comunicação do Brasil.
-Possui experiência na condução de unidades e equipes de P&D e Inovação, responsáveis pela proposição, aprovação e execução de projetos financiados por diversos fundos de fomento de P&D como Funtec (BNDES), Funttel, Finep, P&D Aneel, Lei de Informática e Embrapii, entre outros. 
-Tem experiência na condução de programas de Inovação Aberta e Conexões ao Ecossistemas de inovação nos mercados de TI, Telecom, Energia e Indústria. Tem expressivo networking na área de P&D, Fundos de Fomento, Startups, Avaliação de Conformidade e Telecomunicações.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-### Recording and materials
-
-[Slides (PDF)](https://github.com/ia377-feec-unicamp/ia377-feec-unicamp.github.io/raw/main/uploads/pdf/CPQD_RADAR_2023_v2.pdf)
- 
-O resultado desse trabalho de pesquisa realizado pelo CPQD está disponível para os interessados no seguinte 
- [link](https://www.cpqd.com.br/noticias/cpqd-lanca-a-edicao-2023-do-radar-conecte-se-ao-novo/).
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6QqOEOOZaCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
