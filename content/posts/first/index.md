@@ -1,5 +1,5 @@
 ---
-title: "First Talk"
+title: "First Talk: The Global Network Advancement Group: Towards a Next Generation System for Data Intensive Sciences"
 date: 2023-07-30T20:40:45-03:00
 draft: false
 tags: ["computer network management","computer network security","protocols","resource allocation","network planning","traffic"]
@@ -8,6 +8,7 @@ series_order: 1
 ---
 
 ## Abstract
+The Global Network Advancement Group (GNA-G) has brought together the major R&E and mission oriented networks and major data intensive science programs to enable the best use of networks and computing facilities worldwide, while developing the next generation of programmable national and intercontinental networks and distributed systems designed to address the most challenging needs of leading edge programs in a manner compatible with continued excellent service to the at-large academic and research communities. I will review the challenges facing the most data intensive science programs, the mission and structure of the GNA-G and its working groups, the global testbeds and emerging services architecture it has deployed, as well as the recent progress in the GNA-G Data Intensive Sciences and AutoGOLE/SENSE working groups towards the next generation network paradigm, working in concert with the Unicamp, Sao Paulo and Vittoria teams, RNP, Rednesp and the Global, National, Americas and Asia Pacific Research Platforms.
 
 
 ## Bio
