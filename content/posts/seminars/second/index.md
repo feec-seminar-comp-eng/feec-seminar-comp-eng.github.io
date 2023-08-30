@@ -21,4 +21,4 @@ Nesta palestra, vou fazer um breve histórico dos avanços na área de Processam
 ## Contact
 [CV Lattes](http://lattes.cnpq.br/9224426261471914) \
 [LinkedIn](https://www.linkedin.com/in/robertoalotufo/) \
-[Google Citations:](https://scholar.google.com.br/citations?user=IQt4hvoAAAAJ)
+[Google Citations](https://scholar.google.com.br/citations?user=IQt4hvoAAAAJ)
