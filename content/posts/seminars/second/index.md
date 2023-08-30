@@ -22,3 +22,11 @@ Nesta palestra, vou fazer um breve histórico dos avanços na área de Processam
 [CV Lattes](http://lattes.cnpq.br/9224426261471914) \
 [LinkedIn](https://www.linkedin.com/in/robertoalotufo/) \
 [Google Citations](https://scholar.google.com.br/citations?user=IQt4hvoAAAAJ)
+
+## Resources and Materials
+
+[FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PuKaN2mqMvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Save the date:** August, 31th, 2023.
