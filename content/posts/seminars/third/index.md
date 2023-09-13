@@ -24,7 +24,7 @@ E-mail: cerqueira.ufpa@gmail.com \
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/<youtube-link-tag>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dx1achYxf0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Save the date:** September, 14th, 2023.
