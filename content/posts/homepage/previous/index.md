@@ -6,4 +6,4 @@ draft: false
 
 If you are interested in knowing more about contents and seminars of previous versions of this matter, access the link of interest
 
-## [IA377 - Seminários em Engenharia de Computação - 1S/2023](https://ia377-feec-unicamp.github.io/)
+## [IA377 - Seminários em Engenharia de Computação - 1S/2023](https://ia377-feec-unicamp.github.io/schedule/)
