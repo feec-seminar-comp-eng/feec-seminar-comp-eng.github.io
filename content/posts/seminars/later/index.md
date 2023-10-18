@@ -29,4 +29,4 @@ E-mail: reynaldo@cpqd.com.br \
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-**Save the date:** October, 19th, 2023.
+**Save the date:** October, XXth, 2023.
