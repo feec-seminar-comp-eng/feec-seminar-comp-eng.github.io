@@ -30,7 +30,7 @@ Miquel has co-authored 80 technical-scientific articles, often at world's-top an
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e148IZJdyaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Save the date:** November, 23rd, 2023.
