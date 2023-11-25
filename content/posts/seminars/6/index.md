@@ -1,10 +1,10 @@
 ---
 title: "Visão geral sobre Blockchain: Conceitos, aplicações e iniciativas relevantes"
-date: 2023-10-16T15:09:44-03:00
+date: 2023-11-29T15:09:44-03:00
 draft: true
 tags: ["Blockchain Technology", "Distributed Ledger", "Cryptocurrency", "Smart Contracts", "Blockchain Applications", "National Initiatives", "International Initiatives", "Blockchain Development", "Standardization", "Economic Sectors"]
 series: ["Seminars"]
-series_order: 999
+series_order: 6
 ---
 
 ## Abstract
@@ -29,4 +29,4 @@ E-mail: reynaldo@cpqd.com.br \
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-**Save the date:** October, XXth, 2023.
+**Save the date:** November, 30th, 2023.
