@@ -1,6 +1,6 @@
 ---
 title: "Visão geral sobre Blockchain: Conceitos, aplicações e iniciativas relevantes"
-date: 2023-11-29T15:09:44-03:00
+date: 2023-11-24T15:09:44-03:00
 draft: false
 tags: ["Blockchain Technology", "Distributed Ledger", "Cryptocurrency", "Smart Contracts", "Blockchain Applications", "National Initiatives", "International Initiatives", "Blockchain Development", "Standardization", "Economic Sectors"]
 series: ["Seminars"]
