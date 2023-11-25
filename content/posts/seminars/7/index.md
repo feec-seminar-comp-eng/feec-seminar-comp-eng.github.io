@@ -22,7 +22,7 @@ In this presentation we will look into what digital twins are, technologies for 
 Klaus Raizer is a Master Researcher in Artificial Intelligence, being a technology area driver for network automation in the Ericsson 6G research program. His main research interests are computational intelligence, cognitive technologies, cyber-physical systems, robotics and network automation. Prior to this, he was the manager of the global zero-touch network automation program. He performs and drives research in machine learning, digital twins, data-driven automation, data observability and cognitive networks. Before joining Ericsson Research, Klaus worked at CPqD, a Research and Development Center in Telecommunications and one of the largest Latin American R&D centers in Telecommunications and IT. He holds a BSc in Control and Automation Engineering, an MSc in Computational Mechanics Engineering and a PhD in Electrical and Computer Engineering from the University of Campinas, in the topic of cognitive architectures. 
 
 ## Contact
-[Linkedin](https://www.linkedin.com/in/klausraizer/)
+[Linkedin](https://www.linkedin.com/in/klausraizer/) \
 [Lattes](lattes.cnpq.br/2428223050794729)
 
 ## Resources and Materials
