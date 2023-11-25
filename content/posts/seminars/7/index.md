@@ -1,7 +1,10 @@
 ---
 title: "7"
 date: 2023-11-25T10:52:33-03:00
-draft: true
+draft: false
+tags: ["6G Technology", "Digital Twins", "Telecommunications"]
+series: ["Seminars"]
+series_order: 7
 ---
 
 ## Abstract
