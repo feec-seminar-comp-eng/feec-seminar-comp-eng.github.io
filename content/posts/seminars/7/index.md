@@ -29,6 +29,6 @@ Klaus Raizer is a Master Researcher in Artificial Intelligence, being a technolo
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-cvllpE4Th4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t1omidAOC8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Save the date:** December, 7th, 2023.
