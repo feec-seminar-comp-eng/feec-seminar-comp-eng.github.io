@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://arielgoes.github.io/"
-title = "IA377/EE883 - Seminars in Computing Engineering"
+title = "IA382 - Seminars in Computing Engineering"
 defaultContentLanguage = "en"
 # languageCode = "en-us"
 

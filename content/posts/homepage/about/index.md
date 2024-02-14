@@ -4,6 +4,8 @@ date: 2023-06-21T10:34:09-03:00
 draft: false
 ---
 
+[IA382] is a 02 credits seminar class offered by the School of Electrical and Computer Engineering ([FEEC](https://www.fee.unicamp.br/)) at the University of Campinas ([UNICAMP](https://www.unicamp.br/)), with the objective to discuss state-of-art topics in the broad field of Computer Engineering.
+
 [IA377](https://www.cpg.feec.unicamp.br/cpg/lista/caderno_horario_show.php?id=1795) is a 02 credits seminar class offered by the School of Electrical and Computer Engineering ([FEEC](https://www.fee.unicamp.br/)) at the University of Campinas ([UNICAMP](https://www.unicamp.br/)), with the objective to discuss state-of-art topics in the broad field of Computer Engineering.
 
 Undergraduate and graduate students will be exposed to top-tier talks and panel conversations by national and international experts from academia and industry.

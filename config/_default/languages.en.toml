@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "FEEC/UNICAMP - IA377 - Seminar in Computer Engineering"
+title = "FEEC/UNICAMP - IA382 - Seminars in Computer Engineering"
 
 [params]
   displayName = "EN"
@@ -16,7 +16,7 @@ title = "FEEC/UNICAMP - IA377 - Seminar in Computer Engineering"
 [author]
   name = "FEEC/UNICAMP - Seminars in Computer Engineering"
   image = "img/avatar6.png"
-  headline = "IA377 and EE883 2S/2023 edition."
+  headline = "IA382 1S/2024 edition."
   links = [
     { link = "https://www.fee.unicamp.br/" }, 
     { instagram = "https://www.instagram.com/feecunicamp/" },
