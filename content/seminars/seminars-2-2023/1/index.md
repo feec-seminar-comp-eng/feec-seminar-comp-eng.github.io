@@ -1,9 +1,9 @@
 ---
-title: "Seminar 1: The Global Network Advancement Group: Towards a Next Generation System for Data Intensive Sciences"
+title: "The Global Network Advancement Group: Towards a Next Generation System for Data Intensive Sciences"
 date: 2023-08-14T20:40:45-03:00
 draft: false
 tags: ["computer network management","computer network security","protocols","resource allocation","network planning","traffic"]
-series: ["Seminars"]
+series: ["Seminars-2-2023"]
 series_order: 1
 ---
 
@@ -12,7 +12,7 @@ The Global Network Advancement Group (GNA-G) has brought together the major R&E 
 
 
 ## Bio
-<img alt="Harvey Newman bio picture" src="/posts/seminars/1/harvey_newman_white_bkg.png" style="width: 40%; height: 160x;">
+<img alt="Harvey Newman bio picture" src="/seminars-2-2023/1/harvey_newman_white_bkg.png" style="width: 40%; height: 160x;">
 
 *Harvey Newman. Professor of Physics at California Institute of Technology (Caltech)*
 Contact: newman@hep.caltech.edu

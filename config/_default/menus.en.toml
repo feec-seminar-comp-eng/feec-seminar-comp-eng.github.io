@@ -29,19 +29,20 @@
 [[main]]
     name = "Seminars 1S/2024"
     PageRef = "seminars-1-2024"
-    weight = 1
+    weight = 21
     parent = "Seminars"
 
 [[main]]
     name = "Seminars 2S/2023"
     PageRef = "seminars-2-2023"
-    weight = 2
+    weight = 22
     parent = "Seminars"
 
 [[main]]
-    name = "Previous Editions"
-    PageRef = "previous"
-    weight = 25
+    name = "Seminars 1S/2023"
+    PageRef = "seminars-1-2023"
+    weight = 23
+    parent = "Seminars"
 
 [[main]]
   identifier = "link"

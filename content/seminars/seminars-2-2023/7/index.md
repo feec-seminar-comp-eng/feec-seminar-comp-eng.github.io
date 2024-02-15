@@ -3,7 +3,7 @@ title: "Digital Twins in 6G network automation​"
 date: 2023-11-25T10:52:33-03:00
 draft: false
 tags: ["6G Technology", "Digital Twins", "Telecommunications"]
-series: ["Seminars"]
+series: ["Seminars-2-2023"]
 series_order: 7
 ---
 
@@ -17,7 +17,7 @@ Network digital twins (NDT) are digital representations of real telecommunicatio
 In this presentation we will look into what digital twins are, technologies for implementing them (e.g., simulation, machine learning), and key use cases in telecom.​
 
 ## Bio
-<img alt="Klaus Raizer" src="/posts/seminars/7/klaus-raizer_cropped.png" style="width: 40%; height: 160x;">
+<img alt="Klaus Raizer" src="/seminars-2-2023/7/klaus-raizer_cropped.png" style="width: 40%; height: 160x;">
 
 Klaus Raizer is a Master Researcher in Artificial Intelligence, being a technology area driver for network automation in the Ericsson 6G research program. His main research interests are computational intelligence, cognitive technologies, cyber-physical systems, robotics and network automation. Prior to this, he was the manager of the global zero-touch network automation program. He performs and drives research in machine learning, digital twins, data-driven automation, data observability and cognitive networks. Before joining Ericsson Research, Klaus worked at CPqD, a Research and Development Center in Telecommunications and one of the largest Latin American R&D centers in Telecommunications and IT. He holds a BSc in Control and Automation Engineering, an MSc in Computational Mechanics Engineering and a PhD in Electrical and Computer Engineering from the University of Campinas, in the topic of cognitive architectures. 
 

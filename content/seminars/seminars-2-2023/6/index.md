@@ -3,7 +3,7 @@ title: "Visão geral sobre Blockchain: Conceitos, aplicações e iniciativas rel
 date: 2023-11-24T15:09:44-03:00
 draft: false
 tags: ["Blockchain Technology", "Distributed Ledger", "Cryptocurrency", "Smart Contracts", "Blockchain Applications", "National Initiatives", "International Initiatives", "Blockchain Development", "Standardization", "Economic Sectors"]
-series: ["Seminars"]
+series: ["Seminars-2-2023"]
 series_order: 6
 ---
 
@@ -14,7 +14,7 @@ A palestra vai apresentar:
 * as iniciativas mais relevantes em nível nacional e internacional relacionadas com padronização, projetos estruturantes e comunidades de desenvolvimento.
 
 ## Bio
-<img alt="Jose Reynaldo Formigoni Filho" src="/posts/seminars/6/jose.png" style="width: 40%; height: 160x;">
+<img alt="Jose Reynaldo Formigoni Filho" src="/seminars-2-2023/6/jose.png" style="width: 40%; height: 160x;">
 
 Graduado em 1984 em engenharia elétrica pela Universidade de Campinas. Em 1995 obteve o título de mestre em engenharia de sistemas pela mesma universidade.  Possui MBA em Direito Eletrônico em 2019 pela Escola Paulista de Direito.  Ingressou no CPqD em 2000, atuando como consultor e pesquisador em diferentes projetos em Tecnologia da Informação e Comunicação . De 2003 a 2010 foi gerente de estratégia e inteligência regulatória, atuando em projetos de consultoria para o setor de comunicações, tendo como clientes empresas operadoras, Ministério das Comunicações e Anatel, além de empresas operadoras no exterior. De outubro de 2010 até o final de 2018, foi gerente da área de Tecnologias de Segurança da Informação. Desde meados de 2018, é o gerente da área de soluções blockchain do CPqD, sendo responsável pela proposição e gestão executiva de projetos de P&D para diferentes setores, pelo desenvolvimento do ecossistema blockchain através concepção de novos modelos de negócio, governança de rede, assim como o desenvolvimento de parcerias tecnológicas e de negócio no tema.
 
