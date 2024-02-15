@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "FEEC/UNICAMP - IA382 - Seminars in Computer Engineering"
+title = "FEEC/UNICAMP - IA382 - Seminar in Computer Engineering"
 
 [params]
   displayName = "EN"
@@ -14,7 +14,7 @@ title = "FEEC/UNICAMP - IA382 - Seminars in Computer Engineering"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "FEEC/UNICAMP - Seminars in Computer Engineering"
+  name = "FEEC/UNICAMP - Seminar in Computer Engineering"
   image = "img/avatar6.png"
   headline = "IA382 1S/2024 edition."
   links = [
