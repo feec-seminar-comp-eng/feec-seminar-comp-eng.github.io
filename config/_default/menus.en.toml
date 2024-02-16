@@ -34,13 +34,13 @@
 
 [[main]]
     name = "Seminars 2S/2023"
-    PageRef = "seminars-2-2023"
+    PageRef = "seminars/seminars-2-2023"
     weight = 22
     parent = "Seminars"
 
 [[main]]
     name = "Seminars 1S/2023"
-    PageRef = "seminars-1-2023"
+    PageRef = "seminars/seminars-1-2023"
     weight = 23
     parent = "Seminars"
 
