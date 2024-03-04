@@ -13,9 +13,9 @@ Consider joining the [IA382 Seminar Mailing list](https://groups.google.com/g/ia
 
 The seminar is open to participation and streamed online through the [Youtube channel of FEEC](https://www.youtube.com/channel/UChptcdqmzNLQ8Oe03DEjIDQ).
 
-Students are exposed to top-tier talks and panel conversations by national and international experts from academia and industry.
+National and international experts from academia and industry expose students to top-tier invited lectures and panel conversations.
 
-Seminar participants are expected to write up a summary of the seminar topics, identify the relevant literature, and answer some aspects about each seminar, in addition to other discussion and learning activities.
+Seminar participants are expected to write up a summary of the seminar topics, identify the relevant literature, and answer some aspects of each seminar, in addition to other discussion and learning activities.
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJM8RXWEZ2"></script>
