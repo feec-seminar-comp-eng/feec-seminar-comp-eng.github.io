@@ -4,7 +4,7 @@ date: 2023-08-22T21:02:29-03:00
 draft: false
 ---
 
-* {{< icon "contact" >}} Prof. Dr. Christrian Esteve Rothenberg -- `chesteve@gmail.com`
+* {{< icon "contact" >}} Prof. Dr. Christrian Esteve Rothenberg -- `chesteve@unicamp.br`
 * {{< icon "location" >}} UNICAMP - FEEC: Av. Albert Einstein, Nº 400 - Cidade Universitária, Campinas - SP, 13083-852
 
 
