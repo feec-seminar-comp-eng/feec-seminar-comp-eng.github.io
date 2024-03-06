@@ -51,9 +51,9 @@
   weight = 100
 
 [[main]]
-  identifier = "instagram"
-  pre = "instagram"
-  url = "https://www.instagram.com/feecunicamp/"
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/playlist?list=PLPoA9wGSNqHbZZCnVfviSIYO_jh23yyHB"
   weight = 150
 
 [[main]]
