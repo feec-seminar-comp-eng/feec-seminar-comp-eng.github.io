@@ -12,7 +12,7 @@ The Global Network Advancement Group (GNA-G) has brought together the major R&E 
 
 
 ## Bio
-<img alt="Harvey Newman bio picture" src="/seminars-2-2023/1/harvey_newman_white_bkg.png" style="width: 40%; height: 160x;">
+<img alt="Harvey Newman bio picture" src="/seminars/seminars-2-2023/1/harvey_newman.png" style="width: 40%; height: 160x;">
 
 *Harvey Newman. Professor of Physics at California Institute of Technology (Caltech)*
 Contact: newman@hep.caltech.edu

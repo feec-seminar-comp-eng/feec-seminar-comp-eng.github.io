@@ -11,7 +11,7 @@ series_order: 3
 This keynote talk will first give an introduction about Immersive communications in 6G systems, highlighting Holographic-Type Communications (HTC). A set of use cases and requirements for HTC will be presented. In addition, this keynote will present some ideas and projects from both industry and academia related to HTC. Finally, an overview of research challenges and opportunities will be presented to stimulate further collaborative research in this exciting area.
 
 ## Bio
-<img alt="Eduardo Cerqueira" src="/seminars-2-2023/3/cerqueira.png" style="width: 40%; height: 160x;">
+<img alt="Eduardo Cerqueira" src="/seminars/seminars-2-2023/3/cerqueira.png" style="width: 40%; height: 160x;">
 
 Eduardo Cerqueira received the Ph.D. degree in informatics engineering from the University of Coimbra, Portugal, in 2008. He was an Invited Auxiliary Professor at the Department of Informatics Engineering, University of Coimbra, from 2008 to 2009, and a Visitor Scholar at the Computer Science Department, University of California in Los Angeles, from 2013 to 2014. He is now an Associate Professor with the Faculty of Computer Engineering and Telecommunications, Federal University of Pará, Brazil. His publications include eight edited books, ten book chapters, four patents, and over 230 papers in national/international refereed journals/conferences. He has served as a Guest Editor for 9 special issues for various peer-reviewed scholarly journals. His research interests include edge computing, immersive communications, smart cities, mobility, and wireless networks.
 

@@ -12,7 +12,7 @@ series_order: 5
 This talk will first review trends in optical networking and SDN. Secondly, we will take a bioengineering perspective of Universal Architectures and how they fulfill the tradeoff: Planning actions that are slow but accurate, centralized and flexible versus Reflex actions that are fast but rigid, automatic and inaccurate. The main part of the talk will conciliate the tradeoff of such Universal Architectures in bioengineering with the needs of the telecommunications landscape. We will cover network planning and design needs versus operational aspects. Finally, a set of remarks and a specific example will be delivered in view of such conciliation for network openness, programmability and automation.
 
 ## Bio
-<img alt="Miquel Garrich" src="/seminars-2-2023/5/miquel-garrich-cropped.png" style="width: 40%; height: 160x;">
+<img alt="Miquel Garrich" src="/seminars/seminars-2-2023/5/miquel-garrich-cropped.png" style="width: 40%; height: 160x;">
 
 Miquel is Telecommunications Engineer by Universitat Politecnica de Catalunya, Spain (2009) and Ph.D. by Politecnico di Torino, Italy (2013). After his Ph.D and during 5 years, he was senior researcher in the optical technologies division at CPqD, Campinas, Brazil, where he coordinated R&D activities and technological transferences to the (Brazilian) industry.
 
