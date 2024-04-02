@@ -30,8 +30,8 @@ My background has been developed both in industry and in academy, focus on netwo
 
 
 ## Contact
-[Personal Page](https://www.rutesofia.com/about)
-[LinkedIn](https://www.linkedin.com/in/rutesofia/?originalSubdomain=de)
+[Personal Page](https://www.rutesofia.com/about)\\
+[LinkedIn](https://www.linkedin.com/in/rutesofia/?originalSubdomain=de)\\
 [Google Scholar](https://scholar.google.com/citations?user=_tCANFgAAAAJ&hl=pt-BR&oi=ao)
 
 

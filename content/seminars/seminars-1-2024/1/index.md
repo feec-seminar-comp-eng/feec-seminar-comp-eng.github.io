@@ -18,7 +18,7 @@ The slowdown of Moore’s Law, the end of Dennard’s scaling, and the rapid ado
 Gianni Antichi is an Associate Professor at [Dipartimento Elettronica, Informazione e Bioingegneria of Politecnico di Milano (Italy)](https://www.deib.polimi.it/ita/home) and Senior Lecturer (Associate Professor) at the School of Electronic Engineering and Computer Science of Queen Mary University of London (United Kindgom). His research interests sit at the intersection of networks and systems and the goal is to develop hardware/software co-designs to improve performance and efficiency of end-host applications as well as packet-processing programs. He received a PhD in Information Engineering from the University of Pisa (Italy). His awards include the best paper at ACM SIGCOMM 2017, the ACM SOSR system 2019, the EPSRC New Investigator and the Facebook Networking Systems Research RFP in 2020.
 
 ## Contact
-[Personal Page](https://gianniantichi.github.io/)
+[Personal Page](https://gianniantichi.github.io/)\\
 [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=3VedTqcAAAAJ)
 
 
