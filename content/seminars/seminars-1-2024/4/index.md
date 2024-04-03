@@ -18,15 +18,16 @@ This talk will discuss recent developments on distributed computing and wireless
 Dave Cavalcanti is Principal Engineer at Intel Corporation since 2015, where he leads research, standards, and industry ecosystem activities to enable time-critical systems and applications of wireless technologies. He also serves as the President of the Avnu Alliance, an industry group facilitating an ecosystem of interoperable deterministic networking across Ethernet, Wi-Fi and 5G technologies. Prior Intel, he was Principal Member of Research Staff at Philips Research. He received his PhD in computer science and engineering in 2006 from the University of Cincinnati. He has published more than 50 academic papers and holds 30 US patents. He is the recipient of best paper awards at IEEE WFCS’23, WFCS’22, WFCS’21, IEEE INDIN’21, and the best demo award at IEEE Infocom 2018. 
 
 ## Contact
-[Google Scholar](https://scholar.google.com/citations?user=CDOAqKkAAAAJ&hl=pt-BR&oi=ao)\\
+[Google Scholar](https://scholar.google.com/citations?user=CDOAqKkAAAAJ&hl=pt-BR&oi=ao) \
 [LinkedIn](https://www.linkedin.com/in/dave-cavalcanti-5349745/)
 
 
-<!--
+
 ## Resources and Materials
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
+<!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PuKaN2mqMvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Save the date:** August, 31th, 2023.
