@@ -28,7 +28,7 @@
 
 [[main]]
     name = "Seminars 1S/2024"
-    PageRef = "seminars-1-2024"
+    PageRef = "seminars/seminars-1-2024"
     weight = 21
     parent = "Seminars"
 
