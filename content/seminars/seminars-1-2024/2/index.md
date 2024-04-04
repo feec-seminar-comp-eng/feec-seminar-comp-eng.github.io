@@ -1,5 +1,5 @@
 ---
-title: "Revolutionizing Medical Imaging Diagnostics with AI​"
+title: "IoT for Social Good​"
 date: 2024-04-02T10:47:59-03:00
 draft: false
 tags: ["IoT", "environment", "health"]
