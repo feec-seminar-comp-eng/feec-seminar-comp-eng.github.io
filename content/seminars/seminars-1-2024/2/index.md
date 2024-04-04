@@ -2,24 +2,26 @@
 title: "Revolutionizing Medical Imaging Diagnostics with AI​"
 date: 2024-04-02T10:47:59-03:00
 draft: false
-tags: ["artificial intelligence", "medical imaging diagnostics", "faster exams"]
+tags: ["IoT", "environment", "health"]
 series: ["Seminars-1-2024"]
 series_order: 2
 ---
 
 ## Abstract
 
-Medical imaging is an essential tool for diagnostics and health management. Wait times for these exams are long and increasing worldwide. Long wait times adversely impact healthcare by delaying subsequent health services, leading to late diagnosis, poorer patient outcomes, and increased costs to individuals and the healthcare system. According to the 2019 "The Value of Radiology report," the direct annual costs to the Canadian economy are> $2B/year. In this presentation, Dr. Roberto Souza, Assistant professor at the University of Calgary, will present how artificial intelligence models of medical image reconstruction, segmentation, and classification can be used to revolutionize imaging diagnostics by making exams faster and providing tools to expedite image analysis and support clinical decisions.
+In this talk, I will describe some of our current projects on using Internet of Things (IoT) to tackle a range of applications that address timely societal problems including environment, climate and health. The talk will start with an overview of IoT, its components and building technologies.
 
 ## Bio
 
-<img alt="Roberto Souza" src="/seminars/seminars-1-2024/1/roberto_souza.png" style="width: 40%; height: 160x;">
+<img alt="Dave Cavalcanti" src="/seminars/seminars-1-2024/2/katia_obraczka.png" style="width: 40%; height: 160x;">
 
-Roberto Souza is a dual citizen from Brazil and the United States, working as an Assistant Professor at the Electrical and Software Engineering Department at the University of Calgary, Canada, since July 2020. He has a B.Sc. in Electrical Engineering from the Federal University of Pará (2012), an M.Sc. (2014) and PhD (2017), both in Computer Engineering from the University of Campinas (UNICAMP). Before becoming an Assistant Professor, Roberto worked for three years as a postdoctoral scholar in the Radiology Department at the University of Calgary. He has international experience, having worked as an intern at the Grenoble Institute of Technology, France, and the University of Pennsylvania, United States. Dr Souza has extensive expertise in image processing and machine learning. His research is currently focused on innovative strategies for data integration and data mining in imaging applications.
+Katia Obraczka is Professor of Computer Science and Engineering at UC Santa Cruz. Her research focuses on data communication networks (wired and wireless), their protocols and applications. Prof. Obraczka and her lab, the Internetworking Research Group (i-NRG), conduct research on designing, developing and deploying protocol architectures motivated by the internets of the future including the Internet, datacenter networks, wireless networks, IoT and edge networks. She has been a PI and a co-PI in a number of projects sponsored by government agencies (e.g., NSF, DARPA, NASA, ARO, DoE, AFOSR) as well as industry (e.g., Cisco, Google, Nokia). She is a Fellow of the IEEE and has received the Santander Chair of Excellence 2020-2021 award and is currently the INRIA International Chair 2021-2025.
+
 
 ## Contact
-[AI2Lab](https://www.ai2lab.ca/team) \
-E-mail: roberto.souza2@ucalgary.ca
+[Google Scholar](https://scholar.google.com/citations?user=xALG_EMAAAAJ&hl=pt-BR&oi=ao)
+[Linkedin](https://www.linkedin.com/in/katia-obraczka-301b182b/)
+
 
 
 ## Resources and Materials
