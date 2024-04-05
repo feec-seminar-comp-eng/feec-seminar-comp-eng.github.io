@@ -2,7 +2,7 @@
 title: "Advances in Holographic-Type Communications"
 date: 2024-04-05T13:06:02-03:00
 draft: false
-tags: ["time-sensitive networking (TSN)", "wireless communication", "virtualized industrial automation"]
+tags: ["Volumetric Streaming", "Network Softwarization", "Video Streaming"]
 series: ["Seminars-1-2024"]
 series_order: 6
 ---
