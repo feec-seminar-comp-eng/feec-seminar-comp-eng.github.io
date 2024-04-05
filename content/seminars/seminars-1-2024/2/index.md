@@ -19,7 +19,7 @@ Katia Obraczka is Professor of Computer Science and Engineering at UC Santa Cruz
 
 
 ## Contact
-[Google Scholar](https://scholar.google.com/citations?user=xALG_EMAAAAJ&hl=pt-BR&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=xALG_EMAAAAJ&hl=pt-BR&oi=ao) \
 [Linkedin](https://www.linkedin.com/in/katia-obraczka-301b182b/)
 
 

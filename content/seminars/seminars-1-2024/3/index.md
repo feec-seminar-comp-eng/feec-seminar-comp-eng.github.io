@@ -18,7 +18,7 @@ Medical imaging is an essential tool for diagnostics and health management. Wait
 Roberto Souza is a dual citizen from Brazil and the United States, working as an Assistant Professor at the Electrical and Software Engineering Department at the University of Calgary, Canada, since July 2020. He has a B.Sc. in Electrical Engineering from the Federal University of Pará (2012), an M.Sc. (2014) and PhD (2017), both in Computer Engineering from the University of Campinas (UNICAMP). Before becoming an Assistant Professor, Roberto worked for three years as a postdoctoral scholar in the Radiology Department at the University of Calgary. He has international experience, having worked as an intern at the Grenoble Institute of Technology, France, and the University of Pennsylvania, United States. Dr Souza has extensive expertise in image processing and machine learning. His research is currently focused on innovative strategies for data integration and data mining in imaging applications.
 
 ## Contact
-[AI2Lab](https://www.ai2lab.ca/team)\\
+[AI2Lab](https://www.ai2lab.ca/team) \
 E-mail: roberto.souza2@ucalgary.ca
 
 <!--
