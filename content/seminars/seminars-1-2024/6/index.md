@@ -21,7 +21,7 @@ Filip De Turck is a professor at the department of Information Technology (Intec
 ## Contact
 
 [Google Scholar](https://scholar.google.be/citations?user=-HXXnmEAAAAJ&hl=en) \
-[LinkedIn](https://www.linkedin.com/in/dave-cavalcanti-5349745/)
+[LinkedIn](https://www.linkedin.com/in/filip-de-turck-4b5ba2/)
 
 
 
