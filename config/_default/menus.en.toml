@@ -53,7 +53,7 @@
 [[main]]
   identifier = "youtube"
   pre = "youtube"
-  url = "https://www.youtube.com/playlist?list=PLPoA9wGSNqHbZZCnVfviSIYO_jh23yyHB"
+  url = "https://www.youtube.com/@feec-unicamp/streams"
   weight = 150
 
 [[main]]

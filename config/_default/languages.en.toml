@@ -20,7 +20,8 @@ title = "FEEC/UNICAMP IA382 - Seminar in Computer Engineering"
   links = [
     { link = "https://www.fee.unicamp.br/" }, 
     { instagram = "https://www.instagram.com/feecunicamp/" },
-    { linkedin = "https://www.linkedin.com/company/feec-unicamp/"}
+    { linkedin = "https://www.linkedin.com/company/feec-unicamp/"},
+    { youtube = "https://www.youtube.com/@feec-unicamp/streams"}
   ]
 
 # [author]
