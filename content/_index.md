@@ -4,6 +4,9 @@ date: 2023-06-21T10:58:31-03:00
 draft: false
 ---
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJAYzSUNiYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [IA382](https://www.cpg.feec.unicamp.br/cpg/lista/caderno_horario_show.php?id=1888) is a 02 credits online graduate seminar class offered by the School of Electrical and Computer Engineering - [FEEC](https://www.fee.unicamp.br/) at the University of Campinas - [UNICAMP](https://www.unicamp.br/), to dive into state-of-art topics in the broad field of Computer Engineering.
 
 The IA382 seminar class in 1S/2024 will be coordinated by [Prof. Christian Esteve Rothenberg](https://www.dca.fee.unicamp.br/~chesteve/) and takes place virtually (almost) every Thursday from 1pm to 2pm (Brazilian time) during the academic semester.
@@ -16,6 +19,7 @@ The seminar is open to participation and streamed online through the [YouTube ch
 National and international experts from academia and industry expose students to top-tier invited lectures and panel conversations.
 
 Seminar participants are expected to write up a summary of the seminar topics, identify the relevant literature, and answer some aspects of each seminar, in addition to other discussion and learning activities.
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJM8RXWEZ2"></script>
