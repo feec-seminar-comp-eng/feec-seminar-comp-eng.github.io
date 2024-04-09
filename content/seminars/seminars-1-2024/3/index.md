@@ -19,14 +19,13 @@ Roberto Souza is a dual citizen from Brazil and the United States, working as an
 
 ## Contact
 [AI2Lab](https://www.ai2lab.ca/team) \
-E-mail: roberto.souza2@ucalgary.ca
+_E-mail:_ roberto.souza2@ucalgary.ca
 
-<!--
+
 ## Resources and Materials
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PuKaN2mqMvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoY1qgt5ipw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Save the date:** August, 31th, 2023.
--->
+**Save the date:** April, 25th, 2024.

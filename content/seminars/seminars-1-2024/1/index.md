@@ -22,12 +22,11 @@ Gianni Antichi is an Associate Professor at [Dipartimento Elettronica, Informazi
 [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=3VedTqcAAAAJ)
 
 
-<!---
+
 ## Resources and Materials
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PuKaN2mqMvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3XFcBEtZDGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Save the date:** August, 31th, 2023.
--->
+**Save the date:** April, 11th, 2024.

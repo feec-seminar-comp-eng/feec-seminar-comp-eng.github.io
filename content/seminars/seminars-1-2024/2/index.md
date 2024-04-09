@@ -28,8 +28,7 @@ Katia Obraczka is Professor of Computer Science and Engineering at UC Santa Cruz
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PuKaN2mqMvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Save the date:** August, 31th, 2023.
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvlmnrRI86w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Save the date:** April, 18th, 2024.
