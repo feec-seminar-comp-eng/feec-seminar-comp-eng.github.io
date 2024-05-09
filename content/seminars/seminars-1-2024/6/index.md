@@ -26,6 +26,6 @@ Gabriela Surita (she/her) works a Senior Research Engineer at Google DeepMind. H
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/@feec-unicamp/streams" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SOg-SOl2lO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=
 **Save the date:** May, 16th, 2024.
