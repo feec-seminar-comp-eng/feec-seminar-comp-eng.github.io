@@ -1,27 +1,27 @@
 ---
-title: "Advances in Holographic-Type Communications"
-date: 2024-04-06T15:06:02-03:00
+title: "Towards an AI-native 6G system architecture"
+date: 2024-04-06T10:12:02-03:00
 draft: false
-tags: ["Volumetric Streaming", "Network Softwarization", "Video Streaming"]
+tags: ["AI-native 6G", "Distributed AI processing", "Edge intelligence"]
 series: ["Seminars-1-2024"]
 series_order: 7
 ---
 
 ## Abstract
+The next generation of mobile communications is expected to revolutionize connectivity through the integration of advanced artificial intelligence (AI) capabilities into its core architecture. This talk explores the concept of an AI-native 6G system, highlighting the symbiotic relationship between AI and 6G mobile networks. The architecture of AI-native 6G systems is characterized by distributed AI processing, edge intelligence, and the use of machine learning algorithms for (non/near-) real-time decision-making. These features support the autonomous operation of the mobile network elements. Specifically, the talk introduces the basic principles, technical challenges and research opportunities associated with developing AI-native 6G systems.  Furthermore, the talk will provide an overview of the DESIRE6G system, an AI-native 6G system architecture, emphasizing its foundational principles and technical innovations by introducing related dynamic resource management approaches.
 
-This talk will give an overview of video streaming technologies over telecommunication networks, while also taking the important evolution towards network softwarizaton into account. The importance and the opportunities provided by volumetric media delivery will be outlined by means of several examples. The most appropriate approach for volumetric media delivery and the various challenges and techniques will be highlighted next. Finally an overview of research challenges and opportunities will be presented to stimulate further research.
 
 ## Bio
 
-<img alt="Filip De Turck" src="/seminars/seminars-1-2024/7/filip_de_turck.png" style="width: 40%; height: 160x;">
+<img alt="Chrysa Papagianni" src="/seminars/seminars-1-2024/7/chrysa.png" style="width: 40%; height: 160x;">
 
-Filip De Turck is a professor at the department of Information Technology (Intec) of Ghent University and imec, Belgium with expertise in communication software, network resource management, adaptive multimedia service delivery and next generation video delivery platforms. In this research area, he is involved in and successfully completed many research projects with industry and academia, served as Chair of the IEEE Technical Committee on Network Operations and Management (CNOM), former chair of the Future Internet Cluster of the European Commission, is on the TPC of many international network and service management conferences and workshops and serves in the Editorial Board of several network and service management journals. Prof. Filip De Turck regularly organizes international workshops on the above mentioned topics, served as Editor-in-Chief of IEEE Transactions on Network and Service Management (TNSM), and steering committee member of the IEEE/IFIP Network Operations and Management Symposium (NOMS), the IFIP/IEEE Integrated Network Management (IM) Symposium, the IEEE Conference on Network Softwarization (IEEE NetSoft) and the IFIP/IEEE Conference on Network and Service Management (CNSM). He also served as chair of the IEEE SDN Initiative Conference Committee, which coordinates initiative IEEE events and conferences on Softwarized Networks. Prof. Filip De Turck was named a Fellow of the IEEE (Institute of Electrical and Electronics Engineers) for outstanding technical contributions to network resource management and adaptive service delivery and serves as a ComSoc Distinguished Lecturer. He is currently (co-)author of over 750 publications. He received the IEEE ComSoc Dan Stokesberry Award 2021 for particularly distinguished technical contributions to the growth of the network operations and service management field.
+Chrysa Papagianni is an assistant professor at the Informatics Institute at the University of Amsterdam. Prior to joining UvA she was a network research engineer for Bell Labs Antwerp. From 2016 to 2018 she was a Research Scientist for the Institute for Systems Research, affiliated with the department of Electrical and Computer Engineering at the University of Maryland. From 2010 to 2016, she worked a Research and Teaching Associate for the School of Electrical and Computer Engineering at the National Technical University of Athens (NTUA). She received her Ph.D. in Electrical and Computer Engineering from the NTUA in 2009. She has co-authored over 80 publications in peer-reviewed journals and conferences. She has worked in multiple research projects funded by the European Commission, the Dutch research council and the European Space Agency, such as Fed4FIRE+, OpenLab, 5Growth, CATRIN etc. Chrysa is currently coordinating the SNS JU DESIRE6G project on 6G system architecture. She also leads the AI-assisted networking work package in the 6G flagship project for the Netherlands on Future Network Services.
 
 
 ## Contact
-
-[Google Scholar](https://scholar.google.be/citations?user=-HXXnmEAAAAJ&hl=en) \
-[LinkedIn](https://www.linkedin.com/in/filip-de-turck-4b5ba2/)
+E-mail: c.papagianni@uva.nl \
+[Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=-UVReIYAAAAJ) \
+[Linkedin](https://www.linkedin.com/in/chrysa-papagianni-85ba5410/)
 
 
 
@@ -29,6 +29,6 @@ Filip De Turck is a professor at the department of Information Technology (Intec
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EWqkdDTZ2rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/@feec-unicamp/streams" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Save the date:** June, 13th, 2024.
+**Save the date:** May, 23rd, 2024.
