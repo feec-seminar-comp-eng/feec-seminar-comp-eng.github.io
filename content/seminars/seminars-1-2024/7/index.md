@@ -31,4 +31,4 @@ E-mail: c.papagianni@uva.nl \
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/@feec-unicamp/streams" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Save the date:** May, 23rd, 2024.
+**Save the date:** TO BE RESCHEDULED (Was: May, 23rd, 2024).
