@@ -27,21 +27,27 @@
     weight = 20
 
 [[main]]
+    name = "Seminars 2S/2024"
+    PageRef = "seminars/seminars-2-2024"
+    weight = 21
+    parent = "Seminars"
+
+[[main]]
     name = "Seminars 1S/2024"
     PageRef = "seminars/seminars-1-2024"
-    weight = 21
+    weight = 22
     parent = "Seminars"
 
 [[main]]
     name = "Seminars 2S/2023"
     PageRef = "seminars/seminars-2-2023"
-    weight = 22
+    weight = 23
     parent = "Seminars"
 
 [[main]]
     name = "Seminars 1S/2023"
     PageRef = "seminars/seminars-1-2023"
-    weight = 23
+    weight = 24
     parent = "Seminars"
 
 [[main]]

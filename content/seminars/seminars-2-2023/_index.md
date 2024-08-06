@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-In this page, you can find every seminar presented on the 2<sup>nd</sup> Semester of 2023
+In this page, you can find every seminar presented on the 2<sup>nd</sup> Semester of 2023.
 {{< /lead >}}
 
 ---
