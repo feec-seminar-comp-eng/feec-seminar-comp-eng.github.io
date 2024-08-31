@@ -8,7 +8,7 @@ series_order: 1
 ---
 
 ## Abstract
-The presentation offers a timely and comprehensive exploration into the emergence of the next-generation internet. Through an in-depth examination of Extended Reality (XR), Generative Artificial Intelligence (GenAI), and the forthcoming 6G networking capabilities, I will lay out the technological advancements underpinning the Immersive Internet. They keynote extends from the foundational elements of XR to technical research & development opportunities, as well as important ethical and regulatory challenges. Many insights offered will be unique given I am based in Silicon Valley.
+The presentation offers a timely and comprehensive exploration into the emergence of the next-generation internet. Through an in-depth examination of Extended Reality (XR), Generative Artificial Intelligence (GenAI), and the forthcoming 6G networking capabilities, I will lay out the technological advancements underpinning the Immersive Internet. The talk extends from the foundational elements of XR to technical research & development opportunities, as well as important ethical and regulatory challenges. Many insights offered will be unique given I am based in Silicon Valley.
 
 
 ## Bio
