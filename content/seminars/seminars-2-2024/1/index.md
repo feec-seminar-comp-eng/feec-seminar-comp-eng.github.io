@@ -12,7 +12,7 @@ The presentation offers a timely and comprehensive exploration into the emergenc
 
 
 ## Bio
-<img alt="Mischa Dohler" src="/seminars/seminars-2-2024/1/mischa.png" style="width: 40%; height: 160x;">
+<img alt="Mischa Dohler" src="/seminars/seminars-2-2024/1/mischa2.png" style="width: 40%; height: 160x;">
 
 Mischa Dohler is now VP Emerging Technologies at Ericsson Inc. in Silicon Valley, working on cutting-edge topics of 5G/6G, AR and Generative AI. He serves on the Spectrum Advisory Board of Ofcom, and served on the Technical Advisory Committee of the FCC.
 
