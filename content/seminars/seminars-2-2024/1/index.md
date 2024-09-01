@@ -32,5 +32,5 @@ He was Professor in Wireless Communications at King’s College London and Direc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yz6Eg-J3CQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Save the date:** September, 5th, 2024.
+**Save the date:** 13:00 - 14:00 (Brazil time), September, 5th, 2024.
 
