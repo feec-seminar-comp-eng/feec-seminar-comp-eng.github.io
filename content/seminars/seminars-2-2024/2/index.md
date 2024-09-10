@@ -25,8 +25,7 @@ Alex James is the Dean External Linkages and Projects, and Full-professor of AI 
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/yz6Eg-J3CQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PSMFN8n63-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Save the date:** 13:00 - 14:00 (Brazil time), September, 12th, 2024.
 
