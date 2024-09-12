@@ -12,7 +12,7 @@ The talk presents the use of packet trimming, a technique which adjusts the size
 
 
 ## Bio
-<img alt="Mischa Dohler" src="/seminars/seminars-2-2024/6/stuart_clayman.png" style="width: 40%; height: 160x;">
+<img alt="Stuart Clayman" src="/seminars/seminars-2-2024/6/stuart_clayman.png" style="width: 40%; height: 160x;">
 
 Stuart Clayman received his PhD in Computer Science from University College London in 1994. He is currently a Principal Research Fellow at UCL EEE department, and he has worked as a Research Lecturer at Kingston University and at UCL.  He co-authored over 75 conference and journal papers. His research interests and expertise lie in the areas of software engineering and programming paradigms; distributed systems; virtualised compute and network systems, network and systems management; sensor systems and smart city platforms, and artificial intelligence systems. He is looking at multi-domain distributed systems, new techniques for large-scale sensor systems, as well as enhanced mechanisms for end-to-end delivery of digital video. He also has extensive experience in the commercial arena undertaking architecture and development for software engineering, distributed systems and networking systems. He has run his own technology start-up in the area of NoSQL databases, sensor data, and digital media.
 
