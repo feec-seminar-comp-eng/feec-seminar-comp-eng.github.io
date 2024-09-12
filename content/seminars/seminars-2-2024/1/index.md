@@ -11,7 +11,7 @@ series_order: 1
 This IEEE ComSoc Virtual Distinguished Lecture offers a timely and comprehensive exploration into the emergence of the next-generation internet. Through an in-depth examination of Extended Reality (XR), Generative Artificial Intelligence (GenAI), and the forthcoming 6G networking capabilities, I will lay out the technological advancements underpinning the Immersive Internet. The talk extends from the foundational elements of XR to technical research & development opportunities, as well as important ethical and regulatory challenges. Many insights offered will be unique given I am based in Silicon Valley.
 
 
-## Bio
+## Bio of Mischa Dohler
 <img alt="Mischa Dohler" src="/seminars/seminars-2-2024/1/mischa2.png" style="width: 40%; height: 160x;">
 
 Mischa Dohler is now VP Emerging Technologies at Ericsson Inc. in Silicon Valley, working on cutting-edge topics of 5G/6G, AR and Generative AI. He serves on the Spectrum Advisory Board of Ofcom, and served on the Technical Advisory Committee of the FCC.
