@@ -12,7 +12,7 @@ Multi-objective optimization refers to solving problems having two or more (ofte
 
 
 ## Bio
-<img alt="Mischa Dohler" src="/seminars/seminars-2-2024/5/carlos_coello.png" style="width: 40%; height: 160x;">
+<img alt="Carlos Artemio" src="/seminars/seminars-2-2024/5/carlos_coello.png" style="width: 40%; height: 160x;">
 
 Carlos Artemio Coello Coello received a PhD in Computer Science from Tulane University (USA) in 1996. His research has mainly focused on the design of new multi-objective optimization algorithms based on bio-inspired metaheuristics (e.g., evolutionary algorithms), which is an area in which he has made pioneering contributions. He has received several awards, including the National Research Award (in 2007) from the Mexican Academy of Science and the 2012 National Medal of Science in Physics, Mathematics and Natural Sciences from Mexico's presidency, the 2013 IEEE Kiyo Tomiyasu Award, the 2016 The World Academy of Sciences (TWAS) Award in “Engineering Sciences”, and the 2021 IEEE Computational Intelligence Society Evolutionary Computation Pioneer Award. Since January 2011, he is an IEEE Fellow. He is currently the Editor-in-Chief of the IEEE Transactions on Evolutionary Computation. He is Full Professor with distinction (Investigador Cinvestav 3F) at the Computer Science Department of CINVESTAV-IPN in Mexico City, Mexico.
 
