@@ -24,8 +24,7 @@ Rodrigo Nogueira is the founder and CEO of Maritaca AI, a company specializing i
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/yz6Eg-J3CQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHT8n7HW6Eg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Save the date:** 13:00 - 14:00 (Brazil time), September, 19th, 2024.
 
