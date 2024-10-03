@@ -1,6 +1,6 @@
 ---
 title: "An Overview of Evolutionary Multi-Objective Optimization"
-date: 2024-08-31T10:37:45-03:00
+date: 2024-08-31T10:37:48-03:00
 draft: false
 tags: ["Multi-objective Optimization", "Evolutionary Algorithms", "MOEAs"]
 series: ["Seminars-2-2024"]
@@ -24,8 +24,9 @@ Carlos Artemio Coello Coello received a PhD in Computer Science from Tulane Univ
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/yz6Eg-J3CQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sM3CT1KgOL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 **Save the date:** 13:00 - 14:00 (Brazil time), October, 3rd, 2024.
 
