@@ -25,8 +25,8 @@ Vaneet Aggarwal received the B.Tech. degree in 2005 from Indian Institute of Tec
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/S3_o8kDT1v8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zv-RlJXK6Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 **Save the date:** 13:00 - 14:00 (Brazil time), October, 24th, 2024.
 
