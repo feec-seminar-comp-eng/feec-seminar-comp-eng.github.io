@@ -1,6 +1,6 @@
 ---
 title: "More is different: How the Science of Complex Systems can inspire Future Autonomous Networks"
-date: 2024-08-31T10:36:45-03:00
+date: 2024-08-31T10:36:43-03:00
 draft: false
 tags: ["Complex Network Systems", "Network Topology Optimization", "Self-Organizing Networks"]
 series: ["Seminars-2-2024"]
@@ -28,5 +28,5 @@ Dr. Nicola Marchetti is a Professor at Trinity College Dublin, Ireland, where he
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NGPnToBWyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-**Save the date:** 13:00 - 14:00 (Brazil time), October, 31st, 2024.
+**Save the date:** 13:00 - 14:00 (Brazil time), November, 7th, 2024.
 

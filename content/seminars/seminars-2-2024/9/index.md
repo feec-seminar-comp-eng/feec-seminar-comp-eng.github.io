@@ -1,6 +1,6 @@
 ---
 title: "Let the Plants do the Talking: Climate-Smart Agriculture by the Messages Received from Plants and Soil"
-date: 2024-08-31T10:36:45-03:00
+date: 2024-08-31T10:36:44-03:00
 draft: false
 tags: ["Climate-Smart Agriculture", "IoT in Agriculture", "Wearable Sensors for Plants"]
 series: ["Seminars-2-2024"]
