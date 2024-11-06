@@ -25,7 +25,7 @@ Dr. Nicola Marchetti is a Professor at Trinity College Dublin, Ireland, where he
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5NGPnToBWyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QGTR2lYg3qE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Save the date:** 13:00 - 14:00 (Brazil time), November, 7th, 2024.
