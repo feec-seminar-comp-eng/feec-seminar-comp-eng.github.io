@@ -57,6 +57,13 @@
     parent = "Seminars"
 
 [[main]]
+    identifier = "smartness-white"
+    pre = "smartness-white"
+    url="https://smartness2030.tech/"
+    weight=50
+
+
+[[main]]
   identifier = "link"
   pre = "link"
   url = "https://www.fee.unicamp.br/"
