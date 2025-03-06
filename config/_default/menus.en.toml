@@ -57,6 +57,12 @@
     parent = "Seminars"
 
 [[main]]
+    name = "All Seminars"
+    PageRef = "seminars/seminars-all/"
+    parent = "Seminars"
+    weight = 26
+
+[[main]]
     identifier = "smartness-white"
     pre = "smartness-white"
     url="https://smartness2030.tech/"

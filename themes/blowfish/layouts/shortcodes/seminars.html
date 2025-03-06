@@ -1,0 +1,5 @@
+{{ range .Site.RegularPages }}
+  {{ if and (strings.HasPrefix .File.Path "seminars/seminars-") (eq .File.BaseFileName "index") }}
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+  {{ end }}
+{{ end }}
