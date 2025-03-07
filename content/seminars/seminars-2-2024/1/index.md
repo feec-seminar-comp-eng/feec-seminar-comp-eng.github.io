@@ -5,6 +5,7 @@ draft: false
 tags: ["XR", "GenAI", "6G"]
 series: ["Seminars-2-2024"]
 series_order: 1
+seminarist: "Mischa Dohler"
 ---
 
 ## Abstract

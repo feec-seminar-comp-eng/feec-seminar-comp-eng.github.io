@@ -5,6 +5,7 @@ draft: false
 tags: ["network function virtualization", "application offloads", "NIC offloads"]
 series: ["Seminars-1-2024"]
 series_order: 1
+seminarist: "Gianni Antichi"
 ---
 
 ## Abstract

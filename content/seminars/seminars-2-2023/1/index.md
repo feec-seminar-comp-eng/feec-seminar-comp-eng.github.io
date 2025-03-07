@@ -5,6 +5,7 @@ draft: false
 tags: ["computer network management","computer network security","protocols","resource allocation","network planning","traffic"]
 series: ["Seminars-2-2023"]
 series_order: 1
+seminarist: "Harvey Newman"
 ---
 
 ## Abstract

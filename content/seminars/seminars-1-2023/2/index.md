@@ -3,6 +3,7 @@ title:  "Radar Conecte-se ao Novo"
 date:   2023-03-23T20:40:45-03:00
 series: ["Seminars-1-2023"]
 series_order: 2
+seminarist: "Paulo Jose Pereira Curado"
 ---
 
 **Abstract** 

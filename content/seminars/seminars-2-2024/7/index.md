@@ -5,6 +5,7 @@ draft: false
 tags: ["Physics-Informed Machine Learning (PIML)", "Physics-Informed Neural Networks (PINNs)", "Reduced Order Models (ROMs)"]
 series: ["Seminars-2-2024"]
 series_order: 7
+seminarist: "Alberto Nogueira"
 ---
 
 ## Abstract
@@ -12,7 +13,7 @@ In 2021, Gartner Inc., a global leader in information technology research and ad
 
 
 ## Bio of Alberto Nogueira
-<img alt="Danilo Demarchi" src="/seminars/seminars-2-2024/7/alberto_nogueira.png" style="width: 40%; height: 160x;">
+<img alt="Alberto Nogueira" src="/seminars/seminars-2-2024/7/alberto_nogueira.png" style="width: 40%; height: 160x;">
 
 Alberto Costa graduated in Mechanical Engineering from the State University of Campinas (1994). His academic excellence awarded him a scholarship in the exchange program for Engineering students at the Institut National Des Sciences Appliquées de Lyon - France - from July 1992 to November 1993. He holds a Master of Science and a Ph.D. in Mechanical Engineering from the Faculty of Mechanical Engineering, State University of Campinas (1998 and 2002, respectively), in the following subjects: (1) High Order Spectral/hp Finite Element Method for 3D unstructured meshes applied to non-linear Elasticity, (2) Algebraic Multigrid schemes and (3) scientific software development. He also concluded two post-doctorates in Computational Fluid Dynamics (CFD), one at the Faculty of Civil Engineering, State University of Campinas (2004), and the other at the Brazilian Aerospace Institute (IAE), Department of Aerospace Science and Technology - DCTA (2006). For nearly a decade (2004-2013), Alberto led Thorus Scisoft Technology company as its CEO and accumulated significant industrial and innovation experience as a technology entrepreneur. His academic and scientific skills cover many branches of Numerical Analysis, Computational Mechanics, and Scientific Machine Learning (SciML) such as High-order Discontinuous Galerkin Method (DGFEM), Spectral Element Method (SEM), Finite Element Method (FEM), Finite Volume Method (FVM), compressible and incompressible flows, turbulence modeling, chaotic dynamical systems, Physics-Informed Neural Networks (PINNs), Neural Operators and Reduced Order Models (ROMs). Since May 2013, he has been a Research Scientist at the Dynamical Systems Modeling (DSM) team within IBM Research in Brazil. In early 2018, he played a pivotal role in IBM's scientific machine learning initiative, introducing PINNs to solve direct and inverse seismic wavefield problems. Since May 2020, he has led the IBM SciML modeling team in developing state-of-the-art reduced-order models to tackle climate change. Alberto is a member of the Open Source Science (OSSci) program and the principal evangelist of the IBM-born open-source project SimulAI (https://github.com/IBM/simulai), a scientific toolkit designed to be a high-level collection of machine learning techniques for multi­scale Physics-Informed applications. In 2024, he embarked on the Quantum Utility Era pioneered by IBM and adopted Quantum Scientific Machine Learning (QSciML) as his top-priority learning topic. One of his short to medium-term career goals is to "quantize" SimulAI's SciML features.
 

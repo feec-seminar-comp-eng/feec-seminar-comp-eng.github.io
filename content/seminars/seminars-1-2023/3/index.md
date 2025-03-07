@@ -3,6 +3,7 @@ title:  "Inside an end-to-end trial of Software-Defined RAN (SD-RAN) "
 date:   2023-03-30T20:40:45-03:00
 series: ["Seminars-1-2023"]
 series_order: 3
+seminarist: "Raphael Vicente Rosa"
 ---
 
 **Abstract** 

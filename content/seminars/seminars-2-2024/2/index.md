@@ -5,6 +5,7 @@ draft: false
 tags: ["AGI", "AI hardware", "AI ethics"]
 series: ["Seminars-2-2024"]
 series_order: 2
+seminarist: "Alex James"
 ---
 
 ## Abstract

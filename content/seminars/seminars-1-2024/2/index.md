@@ -5,6 +5,7 @@ draft: false
 tags: ["IoT", "environment", "health"]
 series: ["Seminars-1-2024"]
 series_order: 2
+seminarist: "Dave Cavalcanti"
 ---
 
 ## Abstract

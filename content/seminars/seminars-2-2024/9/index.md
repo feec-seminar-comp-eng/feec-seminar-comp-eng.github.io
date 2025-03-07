@@ -5,6 +5,7 @@ draft: false
 tags: ["Climate-Smart Agriculture", "IoT in Agriculture", "Wearable Sensors for Plants"]
 series: ["Seminars-2-2024"]
 series_order: 9
+seminarist: "Danilo Demarchi"
 ---
 
 ## Abstract

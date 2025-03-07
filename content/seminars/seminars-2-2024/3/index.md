@@ -5,6 +5,7 @@ draft: false
 tags: ["Large Language Models", "AI specialization", "AI in Brazil"]
 series: ["Seminars-2-2024"]
 series_order: 3
+seminarist: "Rodrigo Nogueira"
 ---
 
 ## Abstract

@@ -5,6 +5,7 @@ draft: false
 tags: ["Multi-objective Optimization", "Evolutionary Algorithms", "MOEAs"]
 series: ["Seminars-2-2024"]
 series_order: 5
+seminarist: "Carlos Artemio"
 ---
 
 ## Abstract

@@ -2,7 +2,8 @@
 title:  "XR ou Realidade Estendida: Status quo"
 date:   2023-04-27T20:40:45-03:00
 series: ["Seminars-1-2023"]
-series_order: 6  
+series_order: 6
+seminarist: "André Barros de Medeiros"
 ---
 
 **Abstract** 

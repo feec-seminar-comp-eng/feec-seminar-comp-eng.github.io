@@ -5,6 +5,7 @@ draft: false
 tags: ["Complex Network Systems", "Network Topology Optimization", "Self-Organizing Networks"]
 series: ["Seminars-2-2024"]
 series_order: 10
+seminarist: "Nicola Marchetti"
 ---
 
 ## Abstract
@@ -12,7 +13,7 @@ It is expected that future mobile networks will be ultra-large-scale, highly dyn
 
 
 ## Bio of Nicola Marchetti
-<img alt="Danilo Demarchi" src="/seminars/seminars-2-2024/10/nicola_marchetti.png" style="width: 40%; height: 160x;">
+<img alt="Nicola Marchetti" src="/seminars/seminars-2-2024/10/nicola_marchetti.png" style="width: 40%; height: 160x;">
 
 Dr. Nicola Marchetti is a Professor at Trinity College Dublin, Ireland, where he is the Head of the EE Engineering department.  He is an IEEE Communications Society Distinguished Lecturer, an IEEE Senior Member, and a Fellow of Trinity College. He received the  PhD in Wireless Communications from Aalborg University, Denmark in 2007, the MSc in Electronic Engineering from University of Ferrara, Italy in 2003,  and the MSc in Mathematics from Aalborg University in 2010. He has authored more than 190 journals and conference papers, 2 books and 9 book chapters,  holds 4 patents, and received 4 best paper awards. His research interests span Complex Networks, Mathematics for Communications & Computing,  Network Resource Allocation, and Signal Processing for Communications. He serves as Technical Editor for IEEE Network and IEEE Wireless Communications,  and has served as an Associate Editor for the IEEE Internet of Things Journal and the EURASIP Journal on Wireless Communications and Networking. He has an extensive experience giving research lectures across the globe, having delivered to date 4 keynotes, 4 IEEE ComSoc distinguished lectures, 20 invited talks, 8 tutorials at international conferences, and 8 international PhD courses.
 

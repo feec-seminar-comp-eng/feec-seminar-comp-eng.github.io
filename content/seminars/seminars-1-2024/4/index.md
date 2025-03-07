@@ -6,6 +6,7 @@ draft: false
 tags: ["Edge computing", "Orchestration", "Internet of Things (IoT)"]
 series: ["Seminars-1-2024"]
 series_order: 4
+seminarist: "Rute Sofia"
 ---
 
 ## Abstract

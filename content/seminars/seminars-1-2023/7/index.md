@@ -3,6 +3,7 @@ title:  "Impactos da Evolução Tecnológica Acelerada na Sociedade"
 date:   2023-05-04T20:40:45-03:00
 series: ["Seminars-1-2023"]
 series_order: 7
+seminarist: "Antonio Marcos Alberti"
 ---
 
 **Abstract** 

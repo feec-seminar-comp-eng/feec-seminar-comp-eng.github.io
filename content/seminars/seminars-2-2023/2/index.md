@@ -5,6 +5,7 @@ draft: false
 tags: ["IA", "IA Generativa", "GAN", "chatGPT", "LLM"]
 series: ["Seminars-2-2023"]
 series_order: 2
+seminarist: "Roberto Lotufo"
 ---
 
 ## Abstract

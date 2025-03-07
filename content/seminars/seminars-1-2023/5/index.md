@@ -2,7 +2,8 @@
 title:  "Internet Quântica: o Futuro das Interconexões de Redes"
 date:   2023-04-20T20:40:45-03:00
 series: ["Seminars-1-2023"]
-series_order: 5  
+series_order: 5
+seminarist: "Antônio Abelém"  
 ---
 
 **Abstract** 

@@ -5,6 +5,7 @@ draft: false
 tags: ["Volumetric Streaming", "Network Softwarization", "Video Streaming"]
 series: ["Seminars-1-2024"]
 series_order: 8
+seminarist: "Filip De Turck"
 ---
 
 ## Abstract

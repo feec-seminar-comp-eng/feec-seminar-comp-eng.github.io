@@ -5,6 +5,7 @@ draft: false
 tags: ["packet trimming", "low latency communication", "6G network optimization"]
 series: ["Seminars-2-2024"]
 series_order: 6
+seminarist: "Stuart Clayman"
 ---
 
 ## Abstract

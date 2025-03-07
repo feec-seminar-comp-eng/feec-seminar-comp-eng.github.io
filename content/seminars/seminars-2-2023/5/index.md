@@ -5,6 +5,7 @@ draft: false
 series: ["Seminars-2-2023"]
 tags: ["Optical Networking", "SDN Trends", "Bioengineering", "Universal Architectures"]
 series_order: 5
+seminarist: "Miquel Garrich"
 ---
 
 

@@ -3,6 +3,7 @@ title:  "HTTP Adaptive Streaming (HAS) — Quo Vadis? "
 date:   2023-06-01T20:40:45-03:00
 series: ["Seminars-1-2023"]
 series_order: 9
+seminarist: "Christian Timmerer"
 ---
 ***IEEE ComSoc Virtual Distinguished Lecture*** 
 

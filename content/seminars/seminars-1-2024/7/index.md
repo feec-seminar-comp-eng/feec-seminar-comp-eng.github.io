@@ -5,6 +5,7 @@ draft: true
 tags: ["AI-native 6G", "Distributed AI processing", "Edge intelligence"]
 series: ["Seminars-1-2024"]
 series_order: 7
+seminarist: "Chrysa Papagianni"
 ---
 
 ## Abstract

@@ -5,6 +5,7 @@ draft: false
 tags: ["Holographic-Type Communications (HTC)", "6G systems", "Immersive communications", "Research challenges", "Edge computing"]
 series: ["Seminars-2-2023"]
 series_order: 3
+seminarist: "Eduardo Cerqueira"
 ---
 
 ## Abstract

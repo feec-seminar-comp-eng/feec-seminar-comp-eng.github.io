@@ -5,6 +5,7 @@ draft: false
 tags: ["6G Technology", "Digital Twins", "Telecommunications"]
 series: ["Seminars-2-2023"]
 series_order: 7
+seminarist: "Klaus Raizer"
 ---
 
 ## Abstract

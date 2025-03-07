@@ -5,6 +5,7 @@ draft: false
 tags: ["Generative AI", "Multimodal sequence models", "Human-AI interaction"]
 series: ["Seminars-1-2024"]
 series_order: 6
+seminarist: "Gabriela Surita"
 ---
 
 ## Abstract

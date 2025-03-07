@@ -5,6 +5,7 @@ draft: false
 tags: ["artificial intelligence", "medical imaging diagnostics", "faster exams"]
 series: ["Seminars-1-2024"]
 series_order: 3
+seminarist: "Roberto Souza"
 ---
 
 ## Abstract

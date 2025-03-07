@@ -3,6 +3,7 @@ title:  "6G The Road to the Future Wireless Technologies 2030"
 date:   2023-05-18T20:40:45-03:00
 series: ["Seminars-1-2023"]
 series_order: 8
+seminarist: "Paulo Sergio Rufino Henrique"
 ---
 
 **Abstract** 

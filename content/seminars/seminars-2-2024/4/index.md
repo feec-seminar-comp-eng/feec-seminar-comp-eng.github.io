@@ -5,6 +5,7 @@ draft: false
 tags: ["RIS-empowered communication", "noise-driven communication", "6G wireless networks"]
 series: ["Seminars-2-2024"]
 series_order: 4
+seminarist: "Ertuğrul Başar"
 ---
 
 ## Abstract

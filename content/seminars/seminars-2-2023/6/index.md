@@ -5,6 +5,7 @@ draft: false
 tags: ["Blockchain Technology", "Distributed Ledger", "Cryptocurrency", "Smart Contracts", "Blockchain Applications", "National Initiatives", "International Initiatives", "Blockchain Development", "Standardization", "Economic Sectors"]
 series: ["Seminars-2-2023"]
 series_order: 6
+seminarist: "Jose Reynaldo Formigoni Filho" 
 ---
 
 ## Abstract

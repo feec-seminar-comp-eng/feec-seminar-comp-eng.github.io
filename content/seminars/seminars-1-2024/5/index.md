@@ -5,6 +5,7 @@ draft: false
 tags: ["time-sensitive networking (TSN)", "wireless communication", "virtualized industrial automation"]
 series: ["Seminars-1-2024"]
 series_order: 5
+seminarist: "Dave Cavalcanti"
 ---
 
 ## Abstract

@@ -5,6 +5,7 @@ draft: false
 series: ["Seminars-2-2023"]
 tags: ["IA em Startups", "Maturidade da IA", "Sistemas de Machine Learning"]
 series_order: 4
+seminarist: "Cezar Taurion"
 ---
 
 ## Abstract

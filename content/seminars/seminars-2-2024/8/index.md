@@ -5,6 +5,7 @@ draft: false
 tags: ["Erasure Coding", "Latency Characterization", "Cloud Computing Stragglers"]
 series: ["Seminars-2-2024"]
 series_order: 8
+seminarist: "Vaneet Aggarwal"
 ---
 
 ## Abstract
