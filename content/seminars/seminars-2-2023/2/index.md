@@ -1,6 +1,6 @@
 ---
 title: "O Estado-da-Arte da I.A. na Área de Linguagem Natural: Por que a IA Generativa é o avanço mais disruptivo em toda a história da IA"
-date: 2023-08-29T21:38:07-03:00
+date: 2023-08-31T21:38:07-03:00
 draft: false
 tags: ["IA", "IA Generativa", "GAN", "chatGPT", "LLM"]
 series: ["Seminars-2-2023"]

@@ -1,6 +1,6 @@
 ---
 title: "A Bioengineering View on Optical Network Openness and Automation"
-date: 2023-11-21T11:04:40-03:00
+date: 2023-11-23T11:04:40-03:00
 draft: false
 series: ["Seminars-2-2023"]
 tags: ["Optical Networking", "SDN Trends", "Bioengineering", "Universal Architectures"]

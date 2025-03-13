@@ -1,6 +1,6 @@
 ---
 title: "IoT for Social Good​"
-date: 2024-04-02T10:47:59-03:00
+date: 2024-04-18T10:47:59-03:00
 draft: false
 tags: ["IoT", "environment", "health"]
 series: ["Seminars-1-2024"]

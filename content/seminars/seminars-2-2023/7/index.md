@@ -1,6 +1,6 @@
 ---
 title: "Digital Twins in 6G network automation​"
-date: 2023-11-25T10:52:33-03:00
+date: 2023-12-07T10:52:33-03:00
 draft: false
 tags: ["6G Technology", "Digital Twins", "Telecommunications"]
 series: ["Seminars-2-2023"]

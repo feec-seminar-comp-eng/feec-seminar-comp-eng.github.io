@@ -1,6 +1,6 @@
 ---
 title: "Cloud Storage Systems: Latency Characterization and Extensions"
-date: 2024-08-31T10:36:46-03:00
+date: 2024-10-24T10:36:46-03:00
 draft: false
 tags: ["Erasure Coding", "Latency Characterization", "Cloud Computing Stragglers"]
 series: ["Seminars-2-2024"]

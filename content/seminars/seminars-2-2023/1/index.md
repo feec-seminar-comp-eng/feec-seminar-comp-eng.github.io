@@ -1,6 +1,6 @@
 ---
 title: "The Global Network Advancement Group: Towards a Next Generation System for Data Intensive Sciences"
-date: 2023-08-14T20:40:45-03:00
+date: 2023-08-17T20:40:45-03:00
 draft: false
 tags: ["computer network management","computer network security","protocols","resource allocation","network planning","traffic"]
 series: ["Seminars-2-2023"]

@@ -1,6 +1,6 @@
 ---
 title: "From Intelligent Surfaces to Noise-Driven Communication:  Innovative Technologies for 6G and Beyond"
-date: 2024-08-31T10:38:45-03:00
+date: 2024-09-26T10:38:45-03:00
 draft: false
 tags: ["RIS-empowered communication", "noise-driven communication", "6G wireless networks"]
 series: ["Seminars-2-2024"]

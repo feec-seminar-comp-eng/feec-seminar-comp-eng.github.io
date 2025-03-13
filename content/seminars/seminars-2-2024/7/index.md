@@ -1,6 +1,6 @@
 ---
 title: "Scientific Machine Learning and Quantum Utility: A Near Future Perspective"
-date: 2024-08-31T10:36:46-03:00
+date: 2024-10-17T10:36:46-03:00
 draft: false
 tags: ["Physics-Informed Machine Learning (PIML)", "Physics-Informed Neural Networks (PINNs)", "Reduced Order Models (ROMs)"]
 series: ["Seminars-2-2024"]

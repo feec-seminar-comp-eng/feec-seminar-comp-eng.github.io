@@ -1,6 +1,6 @@
 ---
 title: "Packet Trimming at the Edge for Low Latency in 6G Environments"
-date: 2024-08-31T10:37:45-03:00
+date: 2024-10-10T10:37:45-03:00
 draft: false
 tags: ["packet trimming", "low latency communication", "6G network optimization"]
 series: ["Seminars-2-2024"]

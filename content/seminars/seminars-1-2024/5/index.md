@@ -1,6 +1,6 @@
 ---
 title: "Next Generation Wireless for Time-critical Performance"
-date: 2024-04-02T10:50:59-03:00
+date: 2024-05-09T10:50:59-03:00
 draft: false
 tags: ["time-sensitive networking (TSN)", "wireless communication", "virtualized industrial automation"]
 series: ["Seminars-1-2024"]

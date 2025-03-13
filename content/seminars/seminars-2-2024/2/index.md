@@ -1,6 +1,6 @@
 ---
 title: "AGI Chips - The Next Frontier"
-date: 2024-08-31T10:39:45-03:00
+date: 2024-09-12T10:39:45-03:00
 draft: false
 tags: ["AGI", "AI hardware", "AI ethics"]
 series: ["Seminars-2-2024"]

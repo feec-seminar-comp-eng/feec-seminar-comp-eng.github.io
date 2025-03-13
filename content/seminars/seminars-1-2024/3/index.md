@@ -1,6 +1,6 @@
 ---
 title: "Revolutionizing Medical Imaging Diagnostics with AI​"
-date: 2024-04-02T10:48:59-03:00
+date: 2024-04-25T10:48:59-03:00
 draft: false
 tags: ["artificial intelligence", "medical imaging diagnostics", "faster exams"]
 series: ["Seminars-1-2024"]

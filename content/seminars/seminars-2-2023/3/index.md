@@ -1,6 +1,6 @@
 ---
 title: "Holographic Type Communication: a future nearer than ever"
-date: 2023-09-07T18:51:13-03:00
+date: 2023-09-14T18:51:13-03:00
 draft: false
 tags: ["Holographic-Type Communications (HTC)", "6G systems", "Immersive communications", "Research challenges", "Edge computing"]
 series: ["Seminars-2-2023"]

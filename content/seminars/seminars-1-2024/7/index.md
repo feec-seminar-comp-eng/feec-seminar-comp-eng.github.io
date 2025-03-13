@@ -1,6 +1,6 @@
 ---
 title: "Towards an AI-native 6G system architecture"
-date: 2024-04-06T10:12:02-03:00
+date: 2024-05-16T14:06:02-03:00
 draft: true
 tags: ["AI-native 6G", "Distributed AI processing", "Edge intelligence"]
 series: ["Seminars-1-2024"]

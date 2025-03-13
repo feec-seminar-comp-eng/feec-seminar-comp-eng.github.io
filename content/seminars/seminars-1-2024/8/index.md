@@ -1,6 +1,6 @@
 ---
 title: "Advances in Holographic-Type Communications"
-date: 2024-04-20T15:06:02-03:00
+date: 2024-06-13T15:06:02-03:00
 draft: false
 tags: ["Volumetric Streaming", "Network Softwarization", "Video Streaming"]
 series: ["Seminars-1-2024"]

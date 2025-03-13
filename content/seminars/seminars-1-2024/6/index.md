@@ -1,6 +1,6 @@
 ---
 title: "Talking to Machines: A Practical introduction to Generative AI"
-date: 2024-04-05T13:06:02-03:00
+date: 2024-05-16T13:06:02-03:00
 draft: false
 tags: ["Generative AI", "Multimodal sequence models", "Human-AI interaction"]
 series: ["Seminars-1-2024"]

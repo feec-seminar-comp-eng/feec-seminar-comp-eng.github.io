@@ -1,6 +1,6 @@
 ---
 title: "To Offload or not to Offload?"
-date: 2024-04-02T10:46:59-03:00
+date: 2024-04-11T10:46:59-03:00
 draft: false
 tags: ["network function virtualization", "application offloads", "NIC offloads"]
 series: ["Seminars-1-2024"]

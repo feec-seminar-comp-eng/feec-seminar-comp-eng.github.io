@@ -1,7 +1,7 @@
 ---
 title: "Latest trends on supporting an energy-efficient and resilient
 IoT-Edge-Cloud continuum"
-date: 2024-04-02T10:49:59-03:00
+date: 2024-05-02T10:49:59-03:00
 draft: false
 tags: ["Edge computing", "Orchestration", "Internet of Things (IoT)"]
 series: ["Seminars-1-2024"]

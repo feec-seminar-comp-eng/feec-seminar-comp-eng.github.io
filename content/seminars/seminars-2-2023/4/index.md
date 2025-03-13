@@ -1,6 +1,6 @@
 ---
 title: "IA: a longa e tortuosa jornada do laboratório à produção"
-date: 2023-10-17T21:12:49-03:00
+date: 2023-10-26T21:12:49-03:00
 draft: false
 series: ["Seminars-2-2023"]
 tags: ["IA em Startups", "Maturidade da IA", "Sistemas de Machine Learning"]

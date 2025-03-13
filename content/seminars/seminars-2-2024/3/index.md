@@ -1,6 +1,6 @@
 ---
 title: "Generalist vs Specialist Language Models"
-date: 2024-08-31T10:38:45-03:00
+date: 2024-09-19T10:38:45-03:00
 draft: false
 tags: ["Large Language Models", "AI specialization", "AI in Brazil"]
 series: ["Seminars-2-2024"]

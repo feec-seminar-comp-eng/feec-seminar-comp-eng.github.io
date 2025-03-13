@@ -1,6 +1,6 @@
 ---
 title: "More is different: How the Science of Complex Systems can inspire Future Autonomous Networks"
-date: 2024-08-31T10:36:43-03:00
+date: 2024-11-07T10:36:43-03:00
 draft: false
 tags: ["Complex Network Systems", "Network Topology Optimization", "Self-Organizing Networks"]
 series: ["Seminars-2-2024"]

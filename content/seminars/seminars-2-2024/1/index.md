@@ -1,6 +1,6 @@
 ---
 title: "The Dawn of an Immersive Internet: XR, Generative AI and the Road to 6G"
-date: 2024-08-31T10:40:45-03:00
+date: 2024-09-05T10:40:45-03:00
 draft: false
 tags: ["XR", "GenAI", "6G"]
 series: ["Seminars-2-2024"]
