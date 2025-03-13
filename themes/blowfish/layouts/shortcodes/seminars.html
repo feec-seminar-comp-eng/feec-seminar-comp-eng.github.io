@@ -1,9 +1,7 @@
 {{ range .Site.RegularPages }}
   {{ if and (strings.HasPrefix .File.Path "seminars/seminars-") (eq .File.BaseFileName "index") }}
-    {{ with .Params }}
-      {{ .date | time.Format "2006-01-02" }} : 
-      {{ if .seminarist }}{{ .seminarist }} - {{ end }}
-      <a href="{{ $.Page.Permalink }}">{{ .Title }}</a><br>
-    {{ end }}
+    <p>{{ .Params.date | time.Format "2006-01-02" }} : 
+    {{ if .Params.seminarist }}{{ .Params.seminarist }} - {{ end }}
+    <a href="{{ .Permalink }}">{{ .Title }}</a></p>
   {{ end }}
 {{ end }}
