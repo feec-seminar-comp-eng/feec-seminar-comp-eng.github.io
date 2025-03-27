@@ -21,6 +21,7 @@ In this talk, I will argue that a successful approach to evolving the Internet r
 Fernando Ramos is an Associate Professor at Instituto Superior Técnico, University of Lisbon, where he coordinates the Master's Programme in Telecommunications and Informatics Engineering. He is also a senior researcher at INESC-ID, leading the Distributed, Parallel, and Secure Systems Scientific Area. He earned his PhD from the University of Cambridge and his MSc from Queen Mary University of London. Fernando is the coordinator of the EU Horizon project ACES and the principal investigator of the FCT-funded Myriarch project. In addition, he co-chairs the P4 Education Working Group, which promotes the use of P4 in educational contexts. His research interests span software-defined networking and network programmability, network security, and the application of AI/ML to network control.
 
 ## Contact
+E-mail: fvramos@tecnico.ulisboa.pt
 
 [Google Scholar](https://scholar.google.pt/citations?hl=en&pli=1&user=NhC7jcQAAAAJ)
 
@@ -30,10 +31,9 @@ Fernando Ramos is an Associate Professor at Instituto Superior Técnico, Univers
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<!--
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3XFcBEtZDGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lMptr7rmdco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
--->
+---
 
 **Save the date:**  March, 27th, 2025.
