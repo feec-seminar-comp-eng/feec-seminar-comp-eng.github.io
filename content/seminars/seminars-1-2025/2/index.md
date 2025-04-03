@@ -1,11 +1,12 @@
 ---
 title: "Cloud Gaming (CG) & Extended Reality (XR/AR): Network Traffic Patterns & challenges in Network Management"
-date: 2025-03-11T10:46:59-03:00
+date: 2025-04-02T00:00:00-03:00
 draft: false
 tags: ["Ultra-Low Latency Networking", "ML-Based Traffic Classification", "QoS/QoE Optimization for CG/AR"]
 series: ["Seminars-1-2025"]
 series_order: 2
 seminarist: "Alireza Shirmarz"
+date_to_display: "2025-04-03"
 ---
 
 ## Abstract

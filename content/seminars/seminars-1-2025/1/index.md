@@ -1,11 +1,12 @@
 ---
 title: "Internet Architecture Evolution: Found in Translation"
-date: 2025-03-12T10:46:59-03:00
+date: 2025-03-27T00:00:00-03:00
 draft: false
 tags: ["Internet evolution", "Backwards compatibility", "Extensible Internet"]
 series: ["Seminars-1-2025"]
 series_order: 1
 seminarist: "Fernando Ramos"
+date_to_display: "2025-03-27"
 ---
 
 ## Abstract
