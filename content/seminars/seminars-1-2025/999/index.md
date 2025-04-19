@@ -1,6 +1,6 @@
 ---
 title: "Fast, Flexible, and Intelligent Next-Generation Networks and Systems"
-date: 2025-04-03T00:00:00-03:00
+date: 2025-04-19T00:00:00-03:00
 draft: false
 tags: ["Data-Plane Intelligence", "High-Speed Machine Learning", "Declarative Network Programming"]
 series: ["Seminars-1-2025"]

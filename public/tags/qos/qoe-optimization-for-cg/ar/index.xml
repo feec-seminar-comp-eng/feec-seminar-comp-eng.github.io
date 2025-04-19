@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QoS/QoE Optimization for CG/AR on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/qos/qoe-optimization-for-cg/ar/</link>
+    <description>Recent content in QoS/QoE Optimization for CG/AR on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://arielgoes.github.io/tags/qos/qoe-optimization-for-cg/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Gaming (CG) &amp; Extended Reality (XR/AR): Network Traffic Patterns &amp; challenges in Network Management</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/2/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/2/</guid>
+      <description>Abstract # Cloud Gaming and Augmented/Extended Reality (AR/XR) are reshaping interactive digital experiences, requiring ultra-low latency, high throughput, and reliable connectivity to deliver real-time responsiveness and immersive QoE.</description>
+    </item>
+    
+  </channel>
+</rss>

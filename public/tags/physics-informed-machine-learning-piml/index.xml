@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics-Informed Machine Learning (PIML) on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/physics-informed-machine-learning-piml/</link>
+    <description>Recent content in Physics-Informed Machine Learning (PIML) on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Oct 2024 10:36:46 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/physics-informed-machine-learning-piml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scientific Machine Learning and Quantum Utility: A Near Future Perspective</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/7/</link>
+      <pubDate>Thu, 17 Oct 2024 10:36:46 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/7/</guid>
+      <description>Abstract # In 2021, Gartner Inc.</description>
+    </item>
+    
+  </channel>
+</rss>

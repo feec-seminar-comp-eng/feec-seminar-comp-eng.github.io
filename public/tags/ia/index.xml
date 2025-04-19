@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IA on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/ia/</link>
+    <description>Recent content in IA on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Aug 2023 21:38:07 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/ia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O Estado-da-Arte da I.A. na Área de Linguagem Natural: Por que a IA Generativa é o avanço mais disruptivo em toda a história da IA</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/2/</link>
+      <pubDate>Thu, 31 Aug 2023 21:38:07 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/2/</guid>
+      <description>Abstract # Nesta palestra, vou fazer um breve histórico dos avanços na área de Processamento de Linguagem Natural com ênfase nos últimos 5 anos, até o surgimento da chamada IA Generativa que culminou com a chegado dos LLM (Large Language Models) no estilo do chatGPT.</description>
+    </item>
+    
+  </channel>
+</rss>

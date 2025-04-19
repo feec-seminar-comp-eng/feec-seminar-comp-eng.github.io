@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Page on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/</link>
+    <description>Recent content in Home Page on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jun 2023 10:58:31 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fast, Flexible, and Intelligent Next-Generation Networks and Systems</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/999/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/999/</guid>
+      <description>Abstract # Maintaining strict security and performance objectives in next-generation cloud and edge networks demands that compute-intensive management and control decisions are made on the current state of the entire network (e.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/999/featured.png" />
+    </item>
+    
+    <item>
+      <title>Challenges in Deploying a High-Performance SDN Network to Support the World’s Largest Optical Telescope</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/4/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/4/</guid>
+      <description>Abstract # The Vera Rubin Observatory, the world’s largest optical telescope, presents a set of operational requirements that have created numerous challenges across all involved domains—from architecture to logistics, from materials to computer networks.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/4/featured.png" />
+    </item>
+    
+    <item>
+      <title>Cloud Gaming (CG) &amp; Extended Reality (XR/AR): Network Traffic Patterns &amp; challenges in Network Management</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/2/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/2/</guid>
+      <description>Abstract # Cloud Gaming and Augmented/Extended Reality (AR/XR) are reshaping interactive digital experiences, requiring ultra-low latency, high throughput, and reliable connectivity to deliver real-time responsiveness and immersive QoE.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/2/featured.png" />
+    </item>
+    
+    <item>
+      <title>Quantum Algorithms: Computational Foundations and Engineering Challenge</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/3/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/3/</guid>
+      <description>Abstract # In this seminar, we will explore quantum algorithms from the perspective of Computer Engineering, covering both their theoretical foundations and the practical challenges of implementation across different quantum computing paradigms.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/3/featured.png" />
+    </item>
+    
+    <item>
+      <title>Internet Architecture Evolution: Found in Translation</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/1/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/1/</guid>
+      <description>Abstract # The success of the Internet is undeniable, but so are its limitations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/1/featured.png" />
+    </item>
+    
+    <item>
+      <title>More is different: How the Science of Complex Systems can inspire Future Autonomous Networks</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/10/</link>
+      <pubDate>Thu, 07 Nov 2024 10:36:43 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/10/</guid>
+      <description>Abstract # It is expected that future mobile networks will be ultra-large-scale, highly dynamic, and complex systems, encompassing a massive number of heterogeneous devices.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/10/featured.png" />
+    </item>
+    
+    <item>
+      <title>Let the Plants do the Talking: Climate-Smart Agriculture by the Messages Received from Plants and Soil</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/9/</link>
+      <pubDate>Thu, 31 Oct 2024 10:36:44 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/9/</guid>
+      <description>Abstract # As reported in the report recently issued by the United Nations (Intergovernmental Panel on Climate Change – IPCC Report 2021), the benefits that technology provides to a green and sustainable economy are highly appreciated and under intense research and development globally.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/9/featured.png" />
+    </item>
+    
+    <item>
+      <title>Cloud Storage Systems: Latency Characterization and Extensions</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/8/</link>
+      <pubDate>Thu, 24 Oct 2024 10:36:46 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/8/</guid>
+      <description>Abstract # Consumers are engaged in more social networking and E-commerce activities these days and are increasingly storing their documents and media in the online storage.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/8/featured.png" />
+    </item>
+    
+    <item>
+      <title>Scientific Machine Learning and Quantum Utility: A Near Future Perspective</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/7/</link>
+      <pubDate>Thu, 17 Oct 2024 10:36:46 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/7/</guid>
+      <description>Abstract # In 2021, Gartner Inc.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/7/featured.png" />
+    </item>
+    
+    <item>
+      <title>Packet Trimming at the Edge for Low Latency in 6G Environments</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/6/</link>
+      <pubDate>Thu, 10 Oct 2024 10:37:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/6/</guid>
+      <description>Abstract # The talk presents the use of packet trimming, a technique which adjusts the size of a packet during its transmission over the network, and has the ability to provide low latency and low loss at the client.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/6/featured.png" />
+    </item>
+    
+    <item>
+      <title>An Overview of Evolutionary Multi-Objective Optimization</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/5/</link>
+      <pubDate>Thu, 03 Oct 2024 10:37:48 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/5/</guid>
+      <description>Abstract # Multi-objective optimization refers to solving problems having two or more (often conflicting) objectives at the same time.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/5/featured.png" />
+    </item>
+    
+    <item>
+      <title>From Intelligent Surfaces to Noise-Driven Communication:  Innovative Technologies for 6G and Beyond</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/4/</link>
+      <pubDate>Thu, 26 Sep 2024 10:38:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/4/</guid>
+      <description>Abstract # Our community has witnessed the rise of many exciting communication technologies in recent years.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/4/featured.png" />
+    </item>
+    
+    <item>
+      <title>Generalist vs Specialist Language Models</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/3/</link>
+      <pubDate>Thu, 19 Sep 2024 10:38:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/3/</guid>
+      <description>Abstract # We are currently experiencing a paradigm shift in the field of artificial intelligence, where with every new version of a large language model, tasks that once seemed far from being solved are now being addressed.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/3/featured.png" />
+    </item>
+    
+    <item>
+      <title>AGI Chips - The Next Frontier</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/2/</link>
+      <pubDate>Thu, 12 Sep 2024 10:39:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/2/</guid>
+      <description>Abstract # General intelligence is a branch of AI research that aims to create machines capable of understanding and learning any intellectual task that a human can.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/2/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Dawn of an Immersive Internet: XR, Generative AI and the Road to 6G</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/1/</link>
+      <pubDate>Thu, 05 Sep 2024 10:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/1/</guid>
+      <description>Abstract # This IEEE ComSoc Virtual Distinguished Lecture offers a timely and comprehensive exploration into the emergence of the next-generation internet.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2024/1/featured.png" />
+    </item>
+    
+    <item>
+      <title>Advances in Holographic-Type Communications</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/8/</link>
+      <pubDate>Thu, 13 Jun 2024 15:06:02 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/8/</guid>
+      <description>Abstract # This talk will give an overview of video streaming technologies over telecommunication networks, while also taking the important evolution towards network softwarizaton into account.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2024/8/featured.png" />
+    </item>
+    
+    <item>
+      <title>Talking to Machines: A Practical introduction to Generative AI</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/6/</link>
+      <pubDate>Thu, 16 May 2024 13:06:02 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/6/</guid>
+      <description>Abstract # Generative AI is changing the way we interact with technology.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2024/6/featured.png" />
+    </item>
+    
+    <item>
+      <title>Next Generation Wireless for Time-critical Performance</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/5/</link>
+      <pubDate>Thu, 09 May 2024 10:50:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/5/</guid>
+      <description>Abstract # This talk will discuss recent developments on distributed computing and wireless communications to enable time-sensitive systems and applications, such as virtualized industrial automation, mobile robots, autonomous vehicles, and new immersive user experiences.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2024/5/featured.png" />
+    </item>
+    
+    <item>
+      <title>Latest trends on supporting an energy-efficient and resilient IoT-Edge-Cloud continuum</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/4/</link>
+      <pubDate>Thu, 02 May 2024 10:49:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/4/</guid>
+      <description>Abstract # The Edge to Cloud continuum defines the overall computing, network and data management required to handle services across an Internet of Things (IoT).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2024/4/featured.png" />
+    </item>
+    
+    <item>
+      <title>Revolutionizing Medical Imaging Diagnostics with AI​</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/3/</link>
+      <pubDate>Thu, 25 Apr 2024 10:48:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/3/</guid>
+      <description>Abstract # Medical imaging is an essential tool for diagnostics and health management.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2024/3/featured.png" />
+    </item>
+    
+    <item>
+      <title>IoT for Social Good​</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/2/</link>
+      <pubDate>Thu, 18 Apr 2024 10:47:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/2/</guid>
+      <description>Abstract # In this talk, I will describe some of our current projects on using Internet of Things (IoT) to tackle a range of applications that address timely societal problems including environment, climate and health.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2024/2/featured.png" />
+    </item>
+    
+    <item>
+      <title>To Offload or not to Offload?</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/1/</link>
+      <pubDate>Thu, 11 Apr 2024 10:46:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/1/</guid>
+      <description>Abstract # The slowdown of Moore’s Law, the end of Dennard’s scaling, and the rapid adoption of high-bandwidth links is creating new challenges when building high-performance end-host network stacks and when dealing with network function virtualization.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2024/1/featured.png" />
+    </item>
+    
+    <item>
+      <title>Digital Twins in 6G network automation​</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/7/</link>
+      <pubDate>Thu, 07 Dec 2023 10:52:33 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/7/</guid>
+      <description>Abstract # 6G will enable a “cyber-physical continuum”, where the network provides intelligence, limitless connectivity, and full synchronization of the physical and digital worlds.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2023/7/featured.png" />
+    </item>
+    
+    <item>
+      <title>Visão geral sobre Blockchain: Conceitos, aplicações e iniciativas relevantes</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/6/</link>
+      <pubDate>Thu, 30 Nov 2023 15:09:44 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/6/</guid>
+      <description>Abstract # A palestra vai apresentar:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2023/6/featured.png" />
+    </item>
+    
+    <item>
+      <title>A Bioengineering View on Optical Network Openness and Automation</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/5/</link>
+      <pubDate>Thu, 23 Nov 2023 11:04:40 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/5/</guid>
+      <description>Abstract # This talk will first review trends in optical networking and SDN.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2023/5/featured.png" />
+    </item>
+    
+    <item>
+      <title>IA: a longa e tortuosa jornada do laboratório à produção</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/4/</link>
+      <pubDate>Thu, 26 Oct 2023 21:12:49 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/4/</guid>
+      <description>Abstract # Aos poucos estamos saindo da fase do hype, onde é “cool” colocar IA no nome da startup e em todo e qualquer projeto, para dar visibilidade e atrair investidores, para a fase da maturidade, onde aprendemos com as experiências vividas, acertos e fracassos.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2023/4/featured.png" />
+    </item>
+    
+    <item>
+      <title>Holographic Type Communication: a future nearer than ever</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/3/</link>
+      <pubDate>Thu, 14 Sep 2023 18:51:13 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/3/</guid>
+      <description>Abstract # This keynote talk will first give an introduction about Immersive communications in 6G systems, highlighting Holographic-Type Communications (HTC).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2023/3/featured.png" />
+    </item>
+    
+    <item>
+      <title>O Estado-da-Arte da I.A. na Área de Linguagem Natural: Por que a IA Generativa é o avanço mais disruptivo em toda a história da IA</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/2/</link>
+      <pubDate>Thu, 31 Aug 2023 21:38:07 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/2/</guid>
+      <description>Abstract # Nesta palestra, vou fazer um breve histórico dos avanços na área de Processamento de Linguagem Natural com ênfase nos últimos 5 anos, até o surgimento da chamada IA Generativa que culminou com a chegado dos LLM (Large Language Models) no estilo do chatGPT.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2023/2/featured.png" />
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://arielgoes.github.io/contact/</link>
+      <pubDate>Tue, 22 Aug 2023 21:02:29 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/contact/</guid>
+      <description>&lt;?</description>
+      
+    </item>
+    
+    <item>
+      <title>The Global Network Advancement Group: Towards a Next Generation System for Data Intensive Sciences</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/1/</link>
+      <pubDate>Thu, 17 Aug 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/1/</guid>
+      <description>Abstract # The Global Network Advancement Group (GNA-G) has brought together the major R&amp;amp;E and mission oriented networks and major data intensive science programs to enable the best use of networks and computing facilities worldwide, while developing the next generation of programmable national and intercontinental networks and distributed systems designed to address the most challenging needs of leading edge programs in a manner compatible with continued excellent service to the at-large academic and research communities.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2023/1/featured.png" />
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://arielgoes.github.io/homepage/welcome/</link>
+      <pubDate>Fri, 21 Jul 2023 10:28:12 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/homepage/welcome/</guid>
+      <description>Abstract # Following the state of the art is paramount for sound and impact scientific practices informed strategic R&amp;amp;D decisions.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/homepage/welcome/featured.png" />
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://arielgoes.github.io/homepage/schedule/</link>
+      <pubDate>Wed, 21 Jun 2023 11:39:48 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/homepage/schedule/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/homepage/schedule/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://arielgoes.github.io/homepage/about/</link>
+      <pubDate>Wed, 21 Jun 2023 10:34:09 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/homepage/about/</guid>
+      <description>IA382 is a 02 credits online graduate seminar class offered by the School of Electrical and Computer Engineering ( FEEC) at the University of Campinas ( UNICAMP), to discuss state-of-art topics in the broad field of Computer Engineering.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/homepage/about/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>HTTP Adaptive Streaming (HAS) — Quo Vadis?</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/9/</link>
+      <pubDate>Thu, 01 Jun 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/9/</guid>
+      <description>IEEE ComSoc Virtual Distinguished Lecture</description>
+      
+    </item>
+    
+    <item>
+      <title>6G The Road to the Future Wireless Technologies 2030</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/8/</link>
+      <pubDate>Thu, 18 May 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/8/</guid>
+      <description>Abstract</description>
+      
+    </item>
+    
+    <item>
+      <title>Impactos da Evolução Tecnológica Acelerada na Sociedade</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/7/</link>
+      <pubDate>Thu, 04 May 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/7/</guid>
+      <description>Abstract</description>
+      
+    </item>
+    
+    <item>
+      <title>XR ou Realidade Estendida: Status quo</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/6/</link>
+      <pubDate>Thu, 27 Apr 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/6/</guid>
+      <description>Abstract</description>
+      
+    </item>
+    
+    <item>
+      <title>Internet Quântica: o Futuro das Interconexões de Redes</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/5/</link>
+      <pubDate>Thu, 20 Apr 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/5/</guid>
+      <description>Abstract</description>
+      
+    </item>
+    
+    <item>
+      <title>Transformando a pesquisa universitária em inovação no mercado</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/4/</link>
+      <pubDate>Thu, 13 Apr 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/4/</guid>
+      <description>Abstract</description>
+      
+    </item>
+    
+    <item>
+      <title>Inside an end-to-end trial of Software-Defined RAN (SD-RAN) </title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/3/</link>
+      <pubDate>Thu, 30 Mar 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/3/</guid>
+      <description>Abstract</description>
+      
+    </item>
+    
+    <item>
+      <title>Radar Conecte-se ao Novo</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/2/</link>
+      <pubDate>Thu, 23 Mar 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/2/</guid>
+      <description>Abstract</description>
+      
+    </item>
+    
+    <item>
+      <title>Hot Topics in Computer Networking</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/1/</link>
+      <pubDate>Thu, 16 Mar 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/1/</guid>
+      <description>Abstract</description>
+      
+    </item>
+    
+    <item>
+      <title>Literature Review: Methodology and Best Practices</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/literature-review/</link>
+      <pubDate>Thu, 09 Mar 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/literature-review/</guid>
+      <description>This introductory lecture for IA377 will be devoted to the topic of &amp;ldquo;Literature Review&amp;rdquo;.</description>
+      
+    </item>
+    
+    <item>
+      <title>Welcome to IA377</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2023/welcome/</link>
+      <pubDate>Thu, 02 Mar 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2023/welcome/</guid>
+      <description>This is the welcome lecture for IA377.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

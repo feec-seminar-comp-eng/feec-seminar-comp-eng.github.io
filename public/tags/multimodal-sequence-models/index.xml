@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal sequence models on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/multimodal-sequence-models/</link>
+    <description>Recent content in Multimodal sequence models on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 May 2024 13:06:02 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/multimodal-sequence-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talking to Machines: A Practical introduction to Generative AI</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/6/</link>
+      <pubDate>Thu, 16 May 2024 13:06:02 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/6/</guid>
+      <description>Abstract # Generative AI is changing the way we interact with technology.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sistemas de Machine Learning on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/sistemas-de-machine-learning/</link>
+    <description>Recent content in Sistemas de Machine Learning on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Oct 2023 21:12:49 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/sistemas-de-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IA: a longa e tortuosa jornada do laboratório à produção</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/4/</link>
+      <pubDate>Thu, 26 Oct 2023 21:12:49 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/4/</guid>
+      <description>Abstract # Aos poucos estamos saindo da fase do hype, onde é “cool” colocar IA no nome da startup e em todo e qualquer projeto, para dar visibilidade e atrair investidores, para a fase da maturidade, onde aprendemos com as experiências vividas, acertos e fracassos.</description>
+    </item>
+    
+  </channel>
+</rss>

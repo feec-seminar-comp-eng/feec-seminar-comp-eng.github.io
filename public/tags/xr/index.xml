@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XR on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/xr/</link>
+    <description>Recent content in XR on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Sep 2024 10:40:45 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/xr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Dawn of an Immersive Internet: XR, Generative AI and the Road to 6G</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/1/</link>
+      <pubDate>Thu, 05 Sep 2024 10:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/1/</guid>
+      <description>Abstract # This IEEE ComSoc Virtual Distinguished Lecture offers a timely and comprehensive exploration into the emergence of the next-generation internet.</description>
+    </item>
+    
+  </channel>
+</rss>

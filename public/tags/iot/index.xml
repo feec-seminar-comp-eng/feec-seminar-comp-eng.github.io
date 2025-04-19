@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/iot/</link>
+    <description>Recent content in IoT on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Apr 2024 10:47:59 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IoT for Social Good​</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/2/</link>
+      <pubDate>Thu, 18 Apr 2024 10:47:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/2/</guid>
+      <description>Abstract # In this talk, I will describe some of our current projects on using Internet of Things (IoT) to tackle a range of applications that address timely societal problems including environment, climate and health.</description>
+    </item>
+    
+  </channel>
+</rss>

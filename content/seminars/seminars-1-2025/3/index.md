@@ -32,9 +32,9 @@ Professor Anderson Santos holds a degree in Computer Engineering from the Milita
 
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
-<!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lMptr7rmdco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QejnPo7gl-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ---
 

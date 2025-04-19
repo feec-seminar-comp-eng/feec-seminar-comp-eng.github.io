@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminars-1-2025 on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/series/seminars-1-2025/</link>
+    <description>Recent content in Seminars-1-2025 on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/series/seminars-1-2025/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fast, Flexible, and Intelligent Next-Generation Networks and Systems</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/999/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/999/</guid>
+      <description>Abstract # Maintaining strict security and performance objectives in next-generation cloud and edge networks demands that compute-intensive management and control decisions are made on the current state of the entire network (e.</description>
+    </item>
+    
+    <item>
+      <title>Challenges in Deploying a High-Performance SDN Network to Support the World’s Largest Optical Telescope</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/4/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/4/</guid>
+      <description>Abstract # The Vera Rubin Observatory, the world’s largest optical telescope, presents a set of operational requirements that have created numerous challenges across all involved domains—from architecture to logistics, from materials to computer networks.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Gaming (CG) &amp; Extended Reality (XR/AR): Network Traffic Patterns &amp; challenges in Network Management</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/2/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/2/</guid>
+      <description>Abstract # Cloud Gaming and Augmented/Extended Reality (AR/XR) are reshaping interactive digital experiences, requiring ultra-low latency, high throughput, and reliable connectivity to deliver real-time responsiveness and immersive QoE.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Algorithms: Computational Foundations and Engineering Challenge</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/3/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/3/</guid>
+      <description>Abstract # In this seminar, we will explore quantum algorithms from the perspective of Computer Engineering, covering both their theoretical foundations and the practical challenges of implementation across different quantum computing paradigms.</description>
+    </item>
+    
+    <item>
+      <title>Internet Architecture Evolution: Found in Translation</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/1/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/1/</guid>
+      <description>Abstract # The success of the Internet is undeniable, but so are its limitations.</description>
+    </item>
+    
+  </channel>
+</rss>

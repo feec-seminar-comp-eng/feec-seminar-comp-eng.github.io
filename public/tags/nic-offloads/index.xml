@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NIC offloads on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/nic-offloads/</link>
+    <description>Recent content in NIC offloads on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Apr 2024 10:46:59 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/nic-offloads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To Offload or not to Offload?</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/1/</link>
+      <pubDate>Thu, 11 Apr 2024 10:46:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/1/</guid>
+      <description>Abstract # The slowdown of Moore’s Law, the end of Dennard’s scaling, and the rapid adoption of high-bandwidth links is creating new challenges when building high-performance end-host network stacks and when dealing with network function virtualization.</description>
+    </item>
+    
+  </channel>
+</rss>

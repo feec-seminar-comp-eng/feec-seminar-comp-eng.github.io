@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-Organizing Networks on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/self-organizing-networks/</link>
+    <description>Recent content in Self-Organizing Networks on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Nov 2024 10:36:43 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/self-organizing-networks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More is different: How the Science of Complex Systems can inspire Future Autonomous Networks</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/10/</link>
+      <pubDate>Thu, 07 Nov 2024 10:36:43 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/10/</guid>
+      <description>Abstract # It is expected that future mobile networks will be ultra-large-scale, highly dynamic, and complex systems, encompassing a massive number of heterogeneous devices.</description>
+    </item>
+    
+  </channel>
+</rss>

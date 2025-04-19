@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>packet trimming on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/packet-trimming/</link>
+    <description>Recent content in packet trimming on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Oct 2024 10:37:45 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/packet-trimming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Packet Trimming at the Edge for Low Latency in 6G Environments</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2024/6/</link>
+      <pubDate>Thu, 10 Oct 2024 10:37:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2024/6/</guid>
+      <description>Abstract # The talk presents the use of packet trimming, a technique which adjusts the size of a packet during its transmission over the network, and has the ability to provide low latency and low loss at the client.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtualized industrial automation on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/virtualized-industrial-automation/</link>
+    <description>Recent content in virtualized industrial automation on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 May 2024 10:50:59 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/virtualized-industrial-automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next Generation Wireless for Time-critical Performance</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/5/</link>
+      <pubDate>Thu, 09 May 2024 10:50:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/5/</guid>
+      <description>Abstract # This talk will discuss recent developments on distributed computing and wireless communications to enable time-sensitive systems and applications, such as virtualized industrial automation, mobile robots, autonomous vehicles, and new immersive user experiences.</description>
+    </item>
+    
+  </channel>
+</rss>

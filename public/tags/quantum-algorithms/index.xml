@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum algorithms on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/quantum-algorithms/</link>
+    <description>Recent content in Quantum algorithms on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/quantum-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Challenges in Deploying a High-Performance SDN Network to Support the World’s Largest Optical Telescope</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/4/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/4/</guid>
+      <description>Abstract # The Vera Rubin Observatory, the world’s largest optical telescope, presents a set of operational requirements that have created numerous challenges across all involved domains—from architecture to logistics, from materials to computer networks.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Algorithms: Computational Foundations and Engineering Challenge</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/3/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/3/</guid>
+      <description>Abstract # In this seminar, we will explore quantum algorithms from the perspective of Computer Engineering, covering both their theoretical foundations and the practical challenges of implementation across different quantum computing paradigms.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminars 1S/2024 on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/seminars/seminars-1-2024/</link>
+    <description>Recent content in Seminars 1S/2024 on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jun 2024 15:06:02 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/seminars/seminars-1-2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advances in Holographic-Type Communications</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/8/</link>
+      <pubDate>Thu, 13 Jun 2024 15:06:02 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/8/</guid>
+      <description>Abstract # This talk will give an overview of video streaming technologies over telecommunication networks, while also taking the important evolution towards network softwarizaton into account.</description>
+    </item>
+    
+    <item>
+      <title>Talking to Machines: A Practical introduction to Generative AI</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/6/</link>
+      <pubDate>Thu, 16 May 2024 13:06:02 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/6/</guid>
+      <description>Abstract # Generative AI is changing the way we interact with technology.</description>
+    </item>
+    
+    <item>
+      <title>Next Generation Wireless for Time-critical Performance</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/5/</link>
+      <pubDate>Thu, 09 May 2024 10:50:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/5/</guid>
+      <description>Abstract # This talk will discuss recent developments on distributed computing and wireless communications to enable time-sensitive systems and applications, such as virtualized industrial automation, mobile robots, autonomous vehicles, and new immersive user experiences.</description>
+    </item>
+    
+    <item>
+      <title>Latest trends on supporting an energy-efficient and resilient IoT-Edge-Cloud continuum</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/4/</link>
+      <pubDate>Thu, 02 May 2024 10:49:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/4/</guid>
+      <description>Abstract # The Edge to Cloud continuum defines the overall computing, network and data management required to handle services across an Internet of Things (IoT).</description>
+    </item>
+    
+    <item>
+      <title>Revolutionizing Medical Imaging Diagnostics with AI​</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/3/</link>
+      <pubDate>Thu, 25 Apr 2024 10:48:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/3/</guid>
+      <description>Abstract # Medical imaging is an essential tool for diagnostics and health management.</description>
+    </item>
+    
+    <item>
+      <title>IoT for Social Good​</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/2/</link>
+      <pubDate>Thu, 18 Apr 2024 10:47:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/2/</guid>
+      <description>Abstract # In this talk, I will describe some of our current projects on using Internet of Things (IoT) to tackle a range of applications that address timely societal problems including environment, climate and health.</description>
+    </item>
+    
+    <item>
+      <title>To Offload or not to Offload?</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/1/</link>
+      <pubDate>Thu, 11 Apr 2024 10:46:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/1/</guid>
+      <description>Abstract # The slowdown of Moore’s Law, the end of Dennard’s scaling, and the rapid adoption of high-bandwidth links is creating new challenges when building high-performance end-host network stacks and when dealing with network function virtualization.</description>
+    </item>
+    
+  </channel>
+</rss>

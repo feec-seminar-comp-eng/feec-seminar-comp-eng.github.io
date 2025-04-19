@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminars-2-2023 on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/series/seminars-2-2023/</link>
+    <description>Recent content in Seminars-2-2023 on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Dec 2023 10:52:33 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/series/seminars-2-2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Twins in 6G network automation​</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/7/</link>
+      <pubDate>Thu, 07 Dec 2023 10:52:33 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/7/</guid>
+      <description>Abstract # 6G will enable a “cyber-physical continuum”, where the network provides intelligence, limitless connectivity, and full synchronization of the physical and digital worlds.</description>
+    </item>
+    
+    <item>
+      <title>Visão geral sobre Blockchain: Conceitos, aplicações e iniciativas relevantes</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/6/</link>
+      <pubDate>Thu, 30 Nov 2023 15:09:44 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/6/</guid>
+      <description>Abstract # A palestra vai apresentar:</description>
+    </item>
+    
+    <item>
+      <title>A Bioengineering View on Optical Network Openness and Automation</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/5/</link>
+      <pubDate>Thu, 23 Nov 2023 11:04:40 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/5/</guid>
+      <description>Abstract # This talk will first review trends in optical networking and SDN.</description>
+    </item>
+    
+    <item>
+      <title>IA: a longa e tortuosa jornada do laboratório à produção</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/4/</link>
+      <pubDate>Thu, 26 Oct 2023 21:12:49 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/4/</guid>
+      <description>Abstract # Aos poucos estamos saindo da fase do hype, onde é “cool” colocar IA no nome da startup e em todo e qualquer projeto, para dar visibilidade e atrair investidores, para a fase da maturidade, onde aprendemos com as experiências vividas, acertos e fracassos.</description>
+    </item>
+    
+    <item>
+      <title>Holographic Type Communication: a future nearer than ever</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/3/</link>
+      <pubDate>Thu, 14 Sep 2023 18:51:13 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/3/</guid>
+      <description>Abstract # This keynote talk will first give an introduction about Immersive communications in 6G systems, highlighting Holographic-Type Communications (HTC).</description>
+    </item>
+    
+    <item>
+      <title>O Estado-da-Arte da I.A. na Área de Linguagem Natural: Por que a IA Generativa é o avanço mais disruptivo em toda a história da IA</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/2/</link>
+      <pubDate>Thu, 31 Aug 2023 21:38:07 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/2/</guid>
+      <description>Abstract # Nesta palestra, vou fazer um breve histórico dos avanços na área de Processamento de Linguagem Natural com ênfase nos últimos 5 anos, até o surgimento da chamada IA Generativa que culminou com a chegado dos LLM (Large Language Models) no estilo do chatGPT.</description>
+    </item>
+    
+    <item>
+      <title>The Global Network Advancement Group: Towards a Next Generation System for Data Intensive Sciences</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2023/1/</link>
+      <pubDate>Thu, 17 Aug 2023 20:40:45 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2023/1/</guid>
+      <description>Abstract # The Global Network Advancement Group (GNA-G) has brought together the major R&amp;amp;E and mission oriented networks and major data intensive science programs to enable the best use of networks and computing facilities worldwide, while developing the next generation of programmable national and intercontinental networks and distributed systems designed to address the most challenging needs of leading edge programs in a manner compatible with continued excellent service to the at-large academic and research communities.</description>
+    </item>
+    
+  </channel>
+</rss>

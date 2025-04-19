@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orchestration on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/orchestration/</link>
+    <description>Recent content in Orchestration on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 May 2024 10:49:59 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/orchestration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest trends on supporting an energy-efficient and resilient IoT-Edge-Cloud continuum</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2024/4/</link>
+      <pubDate>Thu, 02 May 2024 10:49:59 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2024/4/</guid>
+      <description>Abstract # The Edge to Cloud continuum defines the overall computing, network and data management required to handle services across an Internet of Things (IoT).</description>
+    </item>
+    
+  </channel>
+</rss>
