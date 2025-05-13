@@ -2,7 +2,7 @@
 title: "How Computer Vision At The Edge Is Changing The Way Products Are Made"
 date: 2025-05-11T00:00:00-03:00
 draft: false
-tags: ["Computer Vision, AI, Monitoring"]
+tags: ["Computer Vision", "AI", "Monitoring"]
 series: ["Seminars-1-2025"]
 series_order: 6
 seminarist: "Rogério Pedral"
@@ -23,7 +23,7 @@ Senior Principal Engineer, Manufacturing Domain, Dell Technologies With over 25 
 
 ## Contact
 **E-mail:** rogerio.pedral@dell.com\
-[GitLab](https://mshahbaz.gitlab.io/)\
+[GitLab](https://mshahbaz.gitlab.io/)
 
 
 ## Resources and Materials
