@@ -35,4 +35,4 @@ Senior Principal Engineer, Manufacturing Domain, Dell Technologies With over 25 
 
 ---
 
-**Save the date:**  May, 12th, 2025.
+**Save the date:**  13:00 - 14:00 May, 15th, 2025. 
