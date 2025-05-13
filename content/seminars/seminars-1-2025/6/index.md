@@ -23,7 +23,6 @@ Senior Principal Engineer, Manufacturing Domain, Dell Technologies With over 25 
 
 ## Contact
 **E-mail:** rogerio.pedral@dell.com\
-[GitLab](https://mshahbaz.gitlab.io/)
 
 
 ## Resources and Materials
