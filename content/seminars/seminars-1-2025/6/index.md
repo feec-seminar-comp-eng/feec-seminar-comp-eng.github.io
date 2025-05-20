@@ -30,9 +30,9 @@ Rogerio Pedral, Senior Principal Engineer, Manufacturing Domain, Dell Technologi
 [FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
 <!--
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lMptr7rmdco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_OqdYFaCkaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 
 ---
 
-**Save the date:**  13:00 - 14:00 May, 15th, 2025. 
+**Save the date:**  13:00 - 14:00 May, 22th, 2025. 

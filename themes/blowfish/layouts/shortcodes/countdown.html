@@ -1,0 +1,44 @@
+{{ $date := .Get "date" }}
+
+<div id="countdown-{{ $date | md5 }}" style="font-weight: bold; font-size: 1.2em; margin: 20px 0;">
+  <div>Loading countdown...</div>
+</div>
+
+<script>
+  (function() {
+    // Parse the ISO date string and convert to timestamp
+    const targetDateISO = "{{ $date }}";
+    const targetDate = new Date(targetDateISO).getTime();
+    
+    const countdownId = "countdown-{{ $date | md5 }}";
+    const countdown = document.getElementById(countdownId);
+    
+    // For debugging - show the target date in local time
+    console.log("Target date:", new Date(targetDate).toString());
+
+    const updateCountdown = () => {
+      const now = new Date().getTime();
+      const distance = targetDate - now;
+
+      if (distance < 0) {
+        countdown.innerHTML = "<div>This event has started or passed.</div>";
+        return;
+      }
+
+      const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      countdown.innerHTML = `<div>Starts in: ${days}d ${hours}h ${minutes}m ${seconds}s</div>`;
+    };
+
+    updateCountdown();
+    const interval = setInterval(() => {
+      updateCountdown();
+      if (new Date().getTime() >= targetDate) {
+        clearInterval(interval);
+      }
+    }, 1000);
+  })();
+</script>

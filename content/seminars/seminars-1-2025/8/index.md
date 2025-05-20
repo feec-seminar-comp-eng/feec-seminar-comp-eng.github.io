@@ -1,10 +1,10 @@
 ---
 title: "Fast, Flexible, and Intelligent Next-Generation Networks and Systems"
 date: 2025-04-19T00:00:00-03:00
-draft: false
+draft: true
 tags: ["Data-Plane Intelligence", "High-Speed Machine Learning", "Declarative Network Programming"]
 series: ["Seminars-1-2025"]
-series_order: 999
+series_order: 8
 seminarist: "Muhammad Shahbaz"
 date_to_display: "2025-05-29"
 ---
