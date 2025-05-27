@@ -1,7 +1,7 @@
 ---
 title: "Fast, Flexible, and Intelligent Next-Generation Networks and Systems"
 date: 2025-04-19T00:00:00-03:00
-draft: true
+draft: false
 tags: ["Data-Plane Intelligence", "High-Speed Machine Learning", "Declarative Network Programming"]
 series: ["Seminars-1-2025"]
 series_order: 8
@@ -17,7 +17,7 @@ In this talk, I will show how my research helps bridge this gap between speed, f
 
 ## Bio
 
-<img alt="Alireza Shirmarz" src="/seminars/seminars-1-2025/999/muhammad-shahbaz.png" style="width: 40%; height: 160x;">
+<img alt="Muhammad Shahbaz" src="/seminars/seminars-1-2025/8/muhammad-shahbaz.png" style="width: 40%; height: 160x;">
 
 Muhammad Shahbaz is an Assistant Professor of Computer Science at the University of Michigan. His research focuses on the design and development of domain-specific (performance) abstractions, compilers, and architectures for emerging workloads (including machine learning, self-driving networks, serverless/edge compute, and 5G). Shahbaz completed his postdoctoral research at Stanford University. He earned his Ph.D. and M.A. in Computer Science from Princeton University and his B.E. in Computer Engineering from the National University of Sciences and Technology (NUST). Before joining Michigan, Shahbaz was a Kevin C. and Suzanne L. Kahn New Frontiers Assistant Professor in Computer Science at Purdue University. He also worked as a Research Assistant at Georgia Tech and the University of Cambridge. Shahbaz has built open-source systems, including Taurus, Pisces, SDX, and NetFPGA-10G, that are widely used in industry and academia. He received the NSF CAREER Award; Facebook, Google, and Intel Research Awards; IETF/IRTF ANRP Prize; ACM SOSR Systems Award; APNet Best Paper Award; Best of CAL Paper Award; Internet2 Innovation Award; and Outstanding Graduate Teaching Assistant Award.
 
@@ -41,3 +41,5 @@ E-mail: msbaz@umich.edu
 
 --- 
 **Save the date:**  May, 29th, 2025.
+
+{{< countdown date="2025-05-29T13:00:00-03:00" >}}
