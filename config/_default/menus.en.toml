@@ -27,40 +27,46 @@
     weight = 20
 
 [[main]]
+    name = "Seminars 2S/2025"
+    PageRef = "seminars/seminars-2-2025"
+    weight = 21
+    parent = "Seminars"
+
+[[main]]
     name = "Seminars 1S/2025"
     PageRef = "seminars/seminars-1-2025"
-    weight = 21
+    weight = 22
     parent = "Seminars"
 
 [[main]]
     name = "Seminars 2S/2024"
     PageRef = "seminars/seminars-2-2024"
-    weight = 22
+    weight = 23
     parent = "Seminars"
 
 [[main]]
     name = "Seminars 1S/2024"
     PageRef = "seminars/seminars-1-2024"
-    weight = 23
+    weight = 24
     parent = "Seminars"
 
 [[main]]
     name = "Seminars 2S/2023"
     PageRef = "seminars/seminars-2-2023"
-    weight = 24
+    weight = 25
     parent = "Seminars"
 
 [[main]]
     name = "Seminars 1S/2023"
     PageRef = "seminars/seminars-1-2023"
-    weight = 25
+    weight = 26
     parent = "Seminars"
 
 [[main]]
     name = "All Seminars"
     PageRef = "seminars/seminars-all/"
     parent = "Seminars"
-    weight = 26
+    weight = 27
 
 [[main]]
     identifier = "smartness-white"
