@@ -6,7 +6,7 @@ tags: ["Open RAN", "Princípios Arquitetônicos", "Implantação"]
 series: ["Seminars-2-2025"]
 series_order: 1
 seminarist: "Paulo Bernardocki"
-date_to_display: "2025-08-14"
+date_to_display: "2025-09-04"
 ---
 
 ## Abstract
@@ -39,4 +39,4 @@ E-mail: paulo.bernardocki@ericsson.com
 
 ---
 
-**Save the date:**  August, 14th, 2025.
+**Save the date:**  September, 4th, 2025.
