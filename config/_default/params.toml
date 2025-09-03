@@ -72,7 +72,7 @@ smartTOCHideUnfocusedChildren = true
   relatedContentLimit = 6
   showTaxonomies = true
   showAuthorsBadges = true
-  showWordCount = true
+  showWordCount = false
   showSummary = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
