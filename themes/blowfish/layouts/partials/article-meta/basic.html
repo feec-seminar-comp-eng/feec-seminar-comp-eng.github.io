@@ -34,6 +34,9 @@
 {{ $meta.Add "partials" (slice (partial "meta/views.html" .)) }}
 {{ end }}
 
+{{/* Add thumbnail/image count information */}}
+{{ $meta.Add "partials" (slice (partial "meta/thumbnail.html" .)) }}
+
 {{ if and (not .Params.externalURL) (.Params.showLikes | default (.Site.Params.article.showLikes | default false)) }}
 {{ $meta.Add "partials" (slice (partial "meta/likes.html" .)) }}
 {{ end }}

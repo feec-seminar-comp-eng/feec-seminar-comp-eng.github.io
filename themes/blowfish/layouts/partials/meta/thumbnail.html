@@ -1,0 +1,12 @@
+<span>
+  {{- with .Params.date_to_display -}}
+    <span class="inline-block align-text-bottom">{{ partial "icon.html" "calendar" }}</span>
+    {{ . }}
+  {{- else -}}
+    {{- with .Params.date -}}
+      <span class="inline-block align-text-bottom">{{ partial "icon.html" "calendar" }}</span>
+      {{ . | time.Format "2006-01-02" }}
+    {{- end -}}
+  {{- end -}}
+</span>
+{{- /* Trim EOF */ -}}
