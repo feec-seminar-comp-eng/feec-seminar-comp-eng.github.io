@@ -1,0 +1,12 @@
+{{ $now := now }}
+
+{{ range sort .Site.RegularPages "Params.date" "asc" }}
+  {{ if and (strings.HasPrefix .File.Path "seminars/seminars-") (eq .File.BaseFileName "index") }}
+    {{ $eventDate := time (.Params.date_to_display | default .Params.date) }}
+    {{ if ge $eventDate.Unix $now.Unix }}
+      <p>{{ .Params.date_to_display | default (.Params.date | time.Format "2006-01-02") }} : 
+      {{ if .Params.seminarist }}{{ .Params.seminarist }} - {{ end }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    {{ end }}
+  {{ end }}
+{{ end }}
