@@ -25,7 +25,7 @@ Paul Veitch leads the cloud infrastructure research centre of excellence and is 
 ## Contact
 E-mail: paul.veitch@bt.com
 
-[Scholar](https://scholar.google.com/citations?hl=pt-BR&user=SlSeC20AAAAJ)
+[Scholar](https://scholar.google.com/citations?hl=pt-BR&user=SlSeC20AAAAJ) \
 [LinkedIn](https://www.linkedin.com/in/paul-veitch-6b0a043/)
 
 
