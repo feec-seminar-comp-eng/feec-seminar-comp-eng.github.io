@@ -21,7 +21,7 @@ Jason Livingood is Vice President of Technology Policy, Product & Standards at C
 
 
 ## Affiliation
-[ComCast](https://corporate.comcast.com/)
+[Comcast](https://corporate.comcast.com/)
 
 [Internet Architecture Board (IAB)](https://www.iab.org/)
 
