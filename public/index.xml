@@ -8,19 +8,79 @@
     <language>en</language>
     <lastBuildDate>Wed, 21 Jun 2023 10:58:31 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fast, Flexible, and Intelligent Next-Generation Networks and Systems</title>
-      <link>https://arielgoes.github.io/seminars/seminars-1-2025/999/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 -0300</pubDate>
+      <title>The Dawn of Low Latency and the Death of Bandwidth</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2025/2/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 -0300</pubDate>
       
-      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/999/</guid>
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2025/2/</guid>
+      <description>Abstract # This seminar will explore how end user bandwidth capacity and latency affects the quality of end user application experiences.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2025/2/featured.png" />
+    </item>
+    
+    <item>
+      <title>5 Key Pillars of Telco Cloud Evolution</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2025/5/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2025/5/</guid>
+      <description>Abstract # Network operators who manage private cloud infrastructure for hosting telecoms workloads and applications must continuously scale-up, optimise and adapt their platform to meet the needs of diverse “tenants” hosted on such infrastructure.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2025/5/featured.png" />
+    </item>
+    
+    <item>
+      <title>Open RAN: Technological Foundations and Market Dynamics</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2025/1/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2025/1/</guid>
+      <description>Abstract # This seminar explores the transformative potential of Open RAN, connecting technological insights with market dynamics.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-2-2025/1/featured.png" />
+    </item>
+    
+    <item>
+      <title>Fast, Flexible, and Intelligent Next-Generation Networks and Systems</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/8/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/8/</guid>
       <description>Abstract # Maintaining strict security and performance objectives in next-generation cloud and edge networks demands that compute-intensive management and control decisions are made on the current state of the entire network (e.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/999/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/8/featured.png" />
+    </item>
+    
+    <item>
+      <title>Sensing Without Seeing: EM Approaches to High-resolution Non-contact Detection</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/7/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/7/</guid>
+      <description>Abstract # Electromagnetic (EM) sensing is rapidly emerging as a compelling alternative to traditional visual and optical methods in real-time detection, offering advantages in sensitivity, selectivity, and resilience in harsh environments or complex sensing medium.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/7/featured.png" />
+    </item>
+    
+    <item>
+      <title>How Computer Vision At The Edge Is Changing The Way Products Are Made</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/6/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/6/</guid>
+      <description>Abstract # At one time or another, nearly everyone has wished they could be in two places at once.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/6/featured.png" />
+    </item>
+    
+    <item>
+      <title>Towards an AI-native 6G system architecture</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/5/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/5/</guid>
+      <description>Abstract # The next generation of mobile communications is expected to revolutionize connectivity through the integration of advanced artificial intelligence (AI) capabilities into its core architecture.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/seminars/seminars-1-2025/5/featured.png" />
     </item>
     
     <item>
       <title>Challenges in Deploying a High-Performance SDN Network to Support the World’s Largest Optical Telescope</title>
       <link>https://arielgoes.github.io/seminars/seminars-1-2025/4/</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 -0300</pubDate>
       
       <guid>https://arielgoes.github.io/seminars/seminars-1-2025/4/</guid>
       <description>Abstract # The Vera Rubin Observatory, the world’s largest optical telescope, presents a set of operational requirements that have created numerous challenges across all involved domains—from architecture to logistics, from materials to computer networks.</description>
@@ -323,7 +383,7 @@
       <pubDate>Wed, 21 Jun 2023 11:39:48 -0300</pubDate>
       
       <guid>https://arielgoes.github.io/homepage/schedule/</guid>
-      <description></description>
+      <description>In this page, you can find the upcoming events!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://arielgoes.github.io/homepage/schedule/featured.jpeg" />
     </item>
     

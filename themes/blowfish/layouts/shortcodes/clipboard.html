@@ -1,0 +1,48 @@
+{{- $text := .Get "text" -}}
+{{- $font := .Get "font" | default "monospace" -}}
+{{- $id := printf "clipboard-%d" now.Unix -}}
+
+<span style="font-family: {{ $font }};">{{ $text }}</span>
+<button id="{{ $id }}" onclick="copyToClipboard('{{ $text }}', '{{ $id }}')" style="margin-left: 8px; padding: 4px 6px; font-size: 12px; border: none; background: transparent; color: #6b7280; cursor: pointer; border-radius: 4px; transition: all 0.2s;" onmouseover="this.style.background='#f3f4f6'; this.style.color='#374151'" onmouseout="this.style.background='transparent'; this.style.color='#6b7280'" title="Copy to clipboard">
+    <svg width="12" height="12" viewBox="0 0 18 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+        <path d="M16 1h-3.278A1.992 1.992 0 0 0 11 0H7a1.993 1.993 0 0 0-1.722 1H2a2 2 0 0 0-2 2v15a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2Zm-3 14H5a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2Zm0-4H5a1 1 0 0 1 0-2h8a1 1 0 1 1 0 2Zm0-5H5a1 1 0 0 1 0-2h2V2h4v2h2a1 1 0 1 1 0 2Z"/>
+    </svg>
+</button>
+
+<script>
+function copyToClipboard(text, buttonId) {
+    var button = document.getElementById(buttonId);
+    var originalContent = button.innerHTML;
+    
+    navigator.clipboard.writeText(text).then(function() {
+        // Show temporary feedback with checkmark
+        button.innerHTML = '<svg width="12" height="12" viewBox="0 0 16 12" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/></svg>';
+        button.style.background = '#e5e7eb';
+        button.style.color = '#374151';
+        setTimeout(function() {
+            button.innerHTML = originalContent;
+            button.style.background = 'transparent';
+            button.style.color = '#6b7280';
+        }, 1500);
+    }).catch(function(err) {
+        console.error('Could not copy text: ', err);
+        // Fallback for older browsers
+        var textArea = document.createElement("textarea");
+        textArea.value = text;
+        document.body.appendChild(textArea);
+        textArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textArea);
+        
+        // Show feedback
+        button.innerHTML = '<svg width="12" height="12" viewBox="0 0 16 12" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"/></svg>';
+        button.style.background = '#e5e7eb';
+        button.style.color = '#374151';
+        setTimeout(function() {
+            button.innerHTML = originalContent;
+            button.style.background = 'transparent';
+            button.style.color = '#6b7280';
+        }, 1500);
+    });
+}
+</script>

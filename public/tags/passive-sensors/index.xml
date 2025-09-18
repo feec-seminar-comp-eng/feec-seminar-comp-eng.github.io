@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passive Sensors on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/passive-sensors/</link>
+    <description>Recent content in Passive Sensors on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 May 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/passive-sensors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sensing Without Seeing: EM Approaches to High-resolution Non-contact Detection</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/7/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/7/</guid>
+      <description>Abstract # Electromagnetic (EM) sensing is rapidly emerging as a compelling alternative to traditional visual and optical methods in real-time detection, offering advantages in sensitivity, selectivity, and resilience in harsh environments or complex sensing medium.</description>
+    </item>
+    
+  </channel>
+</rss>

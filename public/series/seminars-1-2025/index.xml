@@ -6,20 +6,47 @@
     <description>Recent content in Seminars-1-2025 on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/series/seminars-1-2025/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 May 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/series/seminars-1-2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fast, Flexible, and Intelligent Next-Generation Networks and Systems</title>
-      <link>https://arielgoes.github.io/seminars/seminars-1-2025/999/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 -0300</pubDate>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/8/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 -0300</pubDate>
       
-      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/999/</guid>
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/8/</guid>
       <description>Abstract # Maintaining strict security and performance objectives in next-generation cloud and edge networks demands that compute-intensive management and control decisions are made on the current state of the entire network (e.</description>
+    </item>
+    
+    <item>
+      <title>Sensing Without Seeing: EM Approaches to High-resolution Non-contact Detection</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/7/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/7/</guid>
+      <description>Abstract # Electromagnetic (EM) sensing is rapidly emerging as a compelling alternative to traditional visual and optical methods in real-time detection, offering advantages in sensitivity, selectivity, and resilience in harsh environments or complex sensing medium.</description>
+    </item>
+    
+    <item>
+      <title>How Computer Vision At The Edge Is Changing The Way Products Are Made</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/6/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/6/</guid>
+      <description>Abstract # At one time or another, nearly everyone has wished they could be in two places at once.</description>
+    </item>
+    
+    <item>
+      <title>Towards an AI-native 6G system architecture</title>
+      <link>https://arielgoes.github.io/seminars/seminars-1-2025/5/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-1-2025/5/</guid>
+      <description>Abstract # The next generation of mobile communications is expected to revolutionize connectivity through the integration of advanced artificial intelligence (AI) capabilities into its core architecture.</description>
     </item>
     
     <item>
       <title>Challenges in Deploying a High-Performance SDN Network to Support the World’s Largest Optical Telescope</title>
       <link>https://arielgoes.github.io/seminars/seminars-1-2025/4/</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 -0300</pubDate>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 -0300</pubDate>
       
       <guid>https://arielgoes.github.io/seminars/seminars-1-2025/4/</guid>
       <description>Abstract # The Vera Rubin Observatory, the world’s largest optical telescope, presents a set of operational requirements that have created numerous challenges across all involved domains—from architecture to logistics, from materials to computer networks.</description>

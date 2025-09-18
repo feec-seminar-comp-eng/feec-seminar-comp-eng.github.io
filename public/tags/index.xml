@@ -6,11 +6,92 @@
     <description>Recent content in Tags on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI &amp; Observability</title>
+      <link>https://arielgoes.github.io/tags/ai-observability/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/ai-observability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure &amp; Efficient Infrastructure&#34;</title>
+      <link>https://arielgoes.github.io/tags/secure-efficient-infrastructure/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/secure-efficient-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telco Cloud Evolution</title>
+      <link>https://arielgoes.github.io/tags/telco-cloud-evolution/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/telco-cloud-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud-Native Automation</title>
+      <link>https://arielgoes.github.io/tags/cloud-native-automation/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/cloud-native-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Efficiency</title>
+      <link>https://arielgoes.github.io/tags/energy-efficiency/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/energy-efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implantação</title>
+      <link>https://arielgoes.github.io/tags/implanta%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/implanta%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open RAN</title>
+      <link>https://arielgoes.github.io/tags/open-ran/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/open-ran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Princípios Arquitetônicos</title>
+      <link>https://arielgoes.github.io/tags/princ%C3%ADpios-arquitet%C3%B4nicos/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/princ%C3%ADpios-arquitet%C3%B4nicos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telco Cloud</title>
+      <link>https://arielgoes.github.io/tags/telco-cloud/</link>
+      <pubDate>Mon, 11 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/telco-cloud/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Data-Plane Intelligence</title>
       <link>https://arielgoes.github.io/tags/data-plane-intelligence/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 27 May 2025 00:00:00 -0300</pubDate>
       
       <guid>https://arielgoes.github.io/tags/data-plane-intelligence/</guid>
       <description></description>
@@ -19,7 +100,7 @@
     <item>
       <title>Declarative Network Programming</title>
       <link>https://arielgoes.github.io/tags/declarative-network-programming/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 27 May 2025 00:00:00 -0300</pubDate>
       
       <guid>https://arielgoes.github.io/tags/declarative-network-programming/</guid>
       <description></description>
@@ -28,9 +109,117 @@
     <item>
       <title>High-Speed Machine Learning</title>
       <link>https://arielgoes.github.io/tags/high-speed-machine-learning/</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 -0300</pubDate>
+      <pubDate>Tue, 27 May 2025 00:00:00 -0300</pubDate>
       
       <guid>https://arielgoes.github.io/tags/high-speed-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge computing</title>
+      <link>https://arielgoes.github.io/tags/edge-computing/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electromagnetic Sensing</title>
+      <link>https://arielgoes.github.io/tags/electromagnetic-sensing/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/electromagnetic-sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive Sensors</title>
+      <link>https://arielgoes.github.io/tags/passive-sensors/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/passive-sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://arielgoes.github.io/tags/ai/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://arielgoes.github.io/tags/computer-vision/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://arielgoes.github.io/tags/monitoring/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI-native 6G</title>
+      <link>https://arielgoes.github.io/tags/ai-native-6g/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/ai-native-6g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Resource Management</title>
+      <link>https://arielgoes.github.io/tags/dynamic-resource-management/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/dynamic-resource-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge Intelligence</title>
+      <link>https://arielgoes.github.io/tags/edge-intelligence/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/edge-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Networking</title>
+      <link>https://arielgoes.github.io/tags/optical-networking/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/optical-networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software-Defined Networking (SDN)</title>
+      <link>https://arielgoes.github.io/tags/software-defined-networking-sdn/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/software-defined-networking-sdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telemetry</title>
+      <link>https://arielgoes.github.io/tags/telemetry/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/tags/telemetry/</guid>
       <description></description>
     </item>
     
@@ -458,15 +647,6 @@
     </item>
     
     <item>
-      <title>Edge computing</title>
-      <link>https://arielgoes.github.io/tags/edge-computing/</link>
-      <pubDate>Thu, 02 May 2024 10:49:59 -0300</pubDate>
-      
-      <guid>https://arielgoes.github.io/tags/edge-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Internet of Things (IoT)</title>
       <link>https://arielgoes.github.io/tags/internet-of-things-iot/</link>
       <pubDate>Thu, 02 May 2024 10:49:59 -0300</pubDate>
@@ -688,15 +868,6 @@
       <pubDate>Thu, 23 Nov 2023 11:04:40 -0300</pubDate>
       
       <guid>https://arielgoes.github.io/tags/bioengineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optical Networking</title>
-      <link>https://arielgoes.github.io/tags/optical-networking/</link>
-      <pubDate>Thu, 23 Nov 2023 11:04:40 -0300</pubDate>
-      
-      <guid>https://arielgoes.github.io/tags/optical-networking/</guid>
       <description></description>
     </item>
     

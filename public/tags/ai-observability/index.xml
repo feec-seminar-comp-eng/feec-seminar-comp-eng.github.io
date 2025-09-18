@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI &amp; Observability on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</title>
+    <link>https://arielgoes.github.io/tags/ai-observability/</link>
+    <description>Recent content in AI &amp; Observability on FEEC/UNICAMP IA382 - Seminar in Computer Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 -0300</lastBuildDate><atom:link href="https://arielgoes.github.io/tags/ai-observability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Dawn of Low Latency and the Death of Bandwidth</title>
+      <link>https://arielgoes.github.io/seminars/seminars-2-2025/2/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 -0300</pubDate>
+      
+      <guid>https://arielgoes.github.io/seminars/seminars-2-2025/2/</guid>
+      <description>Abstract # This seminar will explore how end user bandwidth capacity and latency affects the quality of end user application experiences.</description>
+    </item>
+    
+  </channel>
+</rss>
