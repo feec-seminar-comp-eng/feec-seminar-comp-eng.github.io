@@ -22,7 +22,7 @@ Ex-Cisco Fellow & Ex-Huawei Intelligent Operations Management CTO, Benoit create
 
 ## Affiliation
 
-Everything OPS
+[Everything OPS](https://www.everything-ops.net/)
 
 [Internet Engineering Task Force (IETF)](https://www.ietf.org/)
 
