@@ -1,6 +1,6 @@
 ---
 title: "The Dawn of Low Latency and the Death of Bandwidth"
-date: 2025-08-12T00:00:00-03:00
+date: 2025-08-02T00:00:00-03:00
 draft: false
 tags: ["Telco Cloud Evolution", "AI & Observability", Secure & Efficient Infrastructure"]
 series: ["Seminars-2-2025"]

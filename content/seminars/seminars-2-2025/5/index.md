@@ -1,6 +1,6 @@
 ---
 title: "5 Key Pillars of Telco Cloud Evolution"
-date: 2025-08-11T00:00:00-03:00
+date: 2025-08-05T00:00:00-03:00
 draft: false
 tags: ["Telco Cloud", "Cloud-Native Automation", "Energy Efficiency"]
 series: ["Seminars-2-2025"]

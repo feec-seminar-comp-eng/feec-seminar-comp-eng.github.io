@@ -1,6 +1,6 @@
 ---
 title: "Realizing the Network Closed Loop Automation"
-date: 2025-08-15T00:00:00-03:00
+date: 2025-08-04T00:00:00-03:00
 draft: false
 tags: ["PoC", "Standard", "Research"]
 series: ["Seminars-2-2025"]

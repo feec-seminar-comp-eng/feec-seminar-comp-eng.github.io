@@ -1,6 +1,6 @@
 ---
 title: "Open RAN: Technological Foundations and Market Dynamics"
-date: 2025-08-11T00:00:00-03:00
+date: 2025-08-01T00:00:00-03:00
 draft: false
 tags: ["Open RAN", "Princípios Arquitetônicos", "Implantação"]
 series: ["Seminars-2-2025"]

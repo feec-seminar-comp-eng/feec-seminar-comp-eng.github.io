@@ -1,6 +1,6 @@
 ---
 title: "Performance Analysis of Lightweight Container Orchestration Platforms for Edge-Based IoT Applications"
-date: 2025-08-14T00:00:00-03:00
+date: 2025-08-03T00:00:00-03:00
 draft: false
 tags: ["Microservices", "Container Orchestration", "Edge Computing"]
 series: ["Seminars-2-2025"]
