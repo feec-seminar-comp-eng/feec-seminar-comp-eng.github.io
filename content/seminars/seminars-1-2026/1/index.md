@@ -6,3 +6,6 @@ tags: ["tag1","tag2","tag3"]
 series: ["Seminars-1-2026"]
 series_order: 1
 seminarist: "Seminarist"
+---
+
+Text
