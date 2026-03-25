@@ -3,22 +3,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
-    
-  
-    
       <url>
-            <loc>https://arielgoes.github.io/seminars/</loc>
-            <lastmod>2025-08-12T00:00:00-03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2025/</loc>
-            <lastmod>2025-08-12T00:00:00-03:00</lastmod>
+            <loc>http://localhost:1313/seminars/</loc>
+            <lastmod>2026-01-01T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -33,35 +20,13 @@
     
   
     
-      <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2025/2/</loc>
-            <lastmod>2025-08-12T00:00:00-03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2025/5/</loc>
-            <lastmod>2025-08-11T00:00:00-03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
   
     
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2025/1/</loc>
-            <lastmod>2025-08-11T00:00:00-03:00</lastmod>
+            <loc>http://localhost:1313/seminars/seminars-1-2026/1/</loc>
+            <lastmod>2026-01-01T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -72,12 +37,139 @@
     
   
     
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-2-2025/8/</loc>
+            <lastmod>2025-08-21T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-2-2025/</loc>
+            <lastmod>2025-08-21T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2025/8/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2025/7/</loc>
+            <lastmod>2025-08-20T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-2-2025/6/</loc>
+            <lastmod>2025-08-06T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-2-2025/5/</loc>
+            <lastmod>2025-08-05T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-2-2025/4/</loc>
+            <lastmod>2025-08-04T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-2-2025/3/</loc>
+            <lastmod>2025-08-03T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-2-2025/2/</loc>
+            <lastmod>2025-08-02T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-2-2025/1/</loc>
+            <lastmod>2025-08-01T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-1-2025/8/</loc>
             <lastmod>2025-05-27T00:00:00-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -88,7 +180,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2025/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2025/</loc>
             <lastmod>2025-05-27T00:00:00-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -102,10 +194,8 @@
     
   
     
-  
-    
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2025/7/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2025/7/</loc>
             <lastmod>2025-05-19T00:00:00-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -118,7 +208,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2025/6/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2025/6/</loc>
             <lastmod>2025-05-11T00:00:00-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -135,7 +225,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2025/5/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2025/5/</loc>
             <lastmod>2025-04-30T00:00:00-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -144,7 +234,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2025/4/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2025/4/</loc>
             <lastmod>2025-04-10T00:00:00-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -159,20 +249,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2025/2/</loc>
-            <lastmod>2025-04-02T00:00:00-03:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2025/3/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2025/2/</loc>
             <lastmod>2025-04-02T00:00:00-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -186,12 +263,27 @@
     
   
     
+      <url>
+            <loc>http://localhost:1313/seminars/seminars-1-2025/3/</loc>
+            <lastmod>2025-04-02T00:00:00-03:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2025/1/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2025/1/</loc>
             <lastmod>2025-03-27T00:00:00-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -204,7 +296,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/10/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/10/</loc>
             <lastmod>2024-11-07T10:36:43-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -217,7 +309,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/</loc>
             <lastmod>2024-11-07T10:36:43-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -232,7 +324,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/9/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/9/</loc>
             <lastmod>2024-10-31T10:36:44-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -245,7 +337,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/8/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/8/</loc>
             <lastmod>2024-10-24T10:36:46-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -264,7 +356,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/7/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/7/</loc>
             <lastmod>2024-10-17T10:36:46-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -279,7 +371,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/6/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/6/</loc>
             <lastmod>2024-10-10T10:37:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -288,7 +380,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/5/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/5/</loc>
             <lastmod>2024-10-03T10:37:48-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -305,7 +397,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/4/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/4/</loc>
             <lastmod>2024-09-26T10:38:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -322,7 +414,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/3/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/3/</loc>
             <lastmod>2024-09-19T10:38:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -335,7 +427,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/2/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/2/</loc>
             <lastmod>2024-09-12T10:39:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -349,10 +441,8 @@
     
   
     
-  
-    
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2024/1/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2024/1/</loc>
             <lastmod>2024-09-05T10:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -363,7 +453,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2024/8/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2024/8/</loc>
             <lastmod>2024-06-13T15:06:02-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -374,7 +464,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2024/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2024/</loc>
             <lastmod>2024-06-13T15:06:02-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -395,7 +485,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2024/6/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2024/6/</loc>
             <lastmod>2024-05-16T13:06:02-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -404,7 +494,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2024/5/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2024/5/</loc>
             <lastmod>2024-05-09T10:50:59-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -421,7 +511,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2024/4/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2024/4/</loc>
             <lastmod>2024-05-02T10:49:59-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -438,7 +528,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2024/3/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2024/3/</loc>
             <lastmod>2024-04-25T10:48:59-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -453,7 +543,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2024/2/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2024/2/</loc>
             <lastmod>2024-04-18T10:47:59-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -468,7 +558,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2024/1/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2024/1/</loc>
             <lastmod>2024-04-11T10:46:59-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -481,7 +571,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2023/7/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2023/7/</loc>
             <lastmod>2023-12-07T10:52:33-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -490,7 +580,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2023/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2023/</loc>
             <lastmod>2023-12-07T10:52:33-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -523,7 +613,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2023/6/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2023/6/</loc>
             <lastmod>2023-11-30T15:09:44-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -532,7 +622,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2023/5/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2023/5/</loc>
             <lastmod>2023-11-23T11:04:40-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -549,7 +639,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2023/4/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2023/4/</loc>
             <lastmod>2023-10-26T21:12:49-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -564,7 +654,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2023/3/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2023/3/</loc>
             <lastmod>2023-09-14T18:51:13-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -589,7 +679,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2023/2/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2023/2/</loc>
             <lastmod>2023-08-31T21:38:07-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -598,7 +688,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/contact/</loc>
+            <loc>http://localhost:1313/contact/</loc>
             <lastmod>2023-08-22T21:02:29-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -617,7 +707,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-2-2023/1/</loc>
+            <loc>http://localhost:1313/seminars/seminars-2-2023/1/</loc>
             <lastmod>2023-08-17T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -628,7 +718,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/homepage/</loc>
+            <loc>http://localhost:1313/homepage/</loc>
             <lastmod>2023-07-21T10:28:12-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -639,7 +729,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/homepage/welcome/</loc>
+            <loc>http://localhost:1313/homepage/welcome/</loc>
             <lastmod>2023-07-21T10:28:12-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -648,7 +738,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/homepage/schedule/</loc>
+            <loc>http://localhost:1313/homepage/schedule/</loc>
             <lastmod>2023-06-21T11:39:48-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -657,7 +747,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/</loc>
+            <loc>http://localhost:1313/</loc>
             <lastmod>2023-06-21T10:58:31-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -666,7 +756,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/homepage/about/</loc>
+            <loc>http://localhost:1313/homepage/about/</loc>
             <lastmod>2023-06-21T10:34:09-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -675,7 +765,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/9/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/9/</loc>
             <lastmod>2023-06-01T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -684,7 +774,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/</loc>
             <lastmod>2023-06-01T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -695,7 +785,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/8/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/8/</loc>
             <lastmod>2023-05-18T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -704,7 +794,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/7/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/7/</loc>
             <lastmod>2023-05-04T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -713,7 +803,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/6/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/6/</loc>
             <lastmod>2023-04-27T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -722,7 +812,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/5/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/5/</loc>
             <lastmod>2023-04-20T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -731,7 +821,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/4/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/4/</loc>
             <lastmod>2023-04-13T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -740,7 +830,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/3/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/3/</loc>
             <lastmod>2023-03-30T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -749,7 +839,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/2/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/2/</loc>
             <lastmod>2023-03-23T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -758,7 +848,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/1/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/1/</loc>
             <lastmod>2023-03-16T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -769,7 +859,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/literature-review/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/literature-review/</loc>
             <lastmod>2023-03-09T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -778,7 +868,7 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-1-2023/welcome/</loc>
+            <loc>http://localhost:1313/seminars/seminars-1-2023/welcome/</loc>
             <lastmod>2023-03-02T20:40:45-03:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -787,12 +877,10 @@
   
     
       <url>
-            <loc>https://arielgoes.github.io/seminars/seminars-all/</loc>
+            <loc>http://localhost:1313/seminars/seminars-all/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
