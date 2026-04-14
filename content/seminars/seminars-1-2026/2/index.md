@@ -1,43 +1,54 @@
 ---
-title: "Academic Leadership in Global Standards: From Research Projects to IETF and 6G"
+title: "From Ground to Sky: Enhancing UAV Connectivity with 5G and Beyond"
 date: 2026-03-24T00:00:00-03:00
 draft: false
-tags: ["Standardization", "6G Networks", "Tech Transfer"]
+tags: ["UAV Communications", "5G Networks", "Interference Management"]
 series: ["Seminars-1-2026"]
 series_order: 2
-seminarist: "Carlos Jesús Bernardos Cano"
-date_to_display: "2026-04-14"
+seminarist: "David López-Pérez"
+date_to_display: "2026-05-14"
 ---
 
 ## Abstract
 
-This keynote examines how academic research can move beyond publications to drive the evolution of global networking standards. Drawing on two decades of experience in the IETF and as a coordinator of major EU 5G/6G projects like 5G-TRANSFORMER and DESIRE6G, Prof. Bernardos will outline effective strategies for researchers to engage with bodies like IETF and ETSI. The talk highlights how collaborative efforts with industry partners, such as Telefónica and Ericsson, are essential for translating scientific innovation into tangible technical specifications and RFCs. Key lessons from successful standardization journeys spanning from IP mobility to network virtualization will be shared to provide a practical roadmap for academic impact. Attendees will gain insights into aligning long-term research goals with the immediate requirements of real-world network deployments. The session also addresses the challenges of bridging the gap between theoretical innovation and standardized protocol design. Ultimately, it offers a vision for the SMARTNESS community to play a central role in defining the architectures of the 6G era.
+Unmanned Aerial Vehicles (UAVs), commonly known as drones, are rapidly emerging as a key component of next-generation wireless ecosystems, enabling a wide range of applications from surveillance and emergency response to logistics and infrastructure monitoring. This talk provides an overview of UAV communications, highlighting their potential benefits in terms of flexibility, mobility, and rapid deployment. We discuss the communication requirements defined by 3GPP for UAV operations, including reliability, latency, coverage, and safety considerations. The talk also examines the fundamental challenges of integrating UAVs into existing cellular networks, such as interference management, mobility support, and spectrum sharing. Furthermore, we explore how 5G technologies can address these challenges, presenting potential solutions and implementation strategies for enabling efficient and safe UAV communications. Finally, we outline future research directions and opportunities, including the role of UAVs in advanced use cases such as aerial highways and large-scale autonomous systems.
 
 ## Bio
 
-<img alt="Luca Turchet" src="/seminars/seminars-1-2026/2/carlos_cano.png" style="width: 40%; height: 160x;">
+<img alt="David López-Pérez" src="/seminars/seminars-1-2026/2/david_lopes-perez.png" style="width: 40%; height: 160x;">
 
-Dr. Carlos J. Bernardos received a Telecommunication Engineering degree in 2003, and a PhD in Telematics in 2006, both from the University Carlos III of Madrid, where he worked as a research and teaching assistant from 2003 to 2008, as a Associate Professor from 2008 to 2022 and since then works as Full Professor. He is teaching different undergraduate and master degree courses, including the Master and Specialist in NFV and SDN. His research interests include IP mobility management, network virtualization, cloud computing, vehicular communications and experimental evaluation of mobile wireless networks. He has published over 100 scientific papers in international journals and conferences. He is an active contributor to IETF since 2005, e.g. to AUTOCONF, MEXT, NETEXT, DMM, MULTIMOB, SDNRG, NFVRG, SFC, DHC and COIN working/research groups, being co-author of more than 30 contributions, several standards (RFC 6276, RFC 7028, RFC 7148, RFC 7161, RFC 7333, RFC 7429, RFC 7778, RFC 7864, RFC 8432), several active working group documents, has co-chaired the IETF P2PSIP WG and the IPWAVE WG, and currently co-chairs the MADINAS WG and the Internet Area Directorate (INTDIR). He visited the Computer Laboratory of University of Cambridge in 2004 and the University of Coimbra in 2005. He has worked in several EU funded projects, being the technical manager of the FP7 MEDIEVAL and the 5GPPP 5G Exchange (5GEx) projects; the Project Coordinator of the 5GPPP 5G-TRANSFORMER and 5Growth projecs; and the Deputy Project Coordinator of the FP7 iJOIN project. He has served as a guest editor for IEEE Network and Elsevier Computer Standards and Interfaces, served as General Chair of IEEE Netsoft 2023, and local arrangements co-chair of ACM CoNEXT 2008, and has served on the TPC of a number of conferences and workshops including IEEE VTC and IEEE Globecom.
+Dr. David López-Pérez is an expert in wireless communications, focused on making networks like cellular and Wi-Fi faster, smarter, and more energy-efficient. Since February 2023, he’s been a Distinguished Researcher at the Universitat Politècnica de València, working with the Institute for Telecommunications and Multimedia Applications (iTEAM). His work revolves around solving real-world challenges in data-driven network modeling and optimization, applying machine learning to networks, and developing technologies for greener and more sustainable networking.
+
+David’s career is a mix of academic achievements and hands-on industry experience. He earned his PhD in wireless communications from the University of Bedfordshire, UK, as a Marie Curie Fellow, followed by postdoctoral research at King’s College London. In the telecom industry, David held senior roles at some of the biggest global companies.
+
+At Nokia Bell Labs in Dublin, he climbed the ranks from Research Engineer to Distinguished Member of Technical Staff (DMTS), working on a variety of advanced projects. His research covered topics like small cells, ultra-dense networks, massive MIMO, cellular and Wi-Fi inter-working, and the development of Wi-Fi 7 technologies.
+
+Later, at Huawei Technologies in Paris, David served as an Expert and Technical Leader, where he led projects on data-driven network modelling and optimization, machine learning for network automation, and enhancing network energy efficiency and drone communications.
+
+David has published widely, with three books, 13 book chapters, and over 189 papers, including 76 journal articles in top-tier publications. He’s also filed 59 patent applications. His current research interests span areas like 6G, cm-wave operation, ultra-dense networks, non-terrestrial networks, drone communications, energy efficiency, and leveraging big data and machine learning to improve wireless systems.
+
+His work has earned him several prestigious awards, including the IEEE ComSoc Best Young Professional in Industry Award (2016), the Bell Labs Distinguished Member of Technical Staff (2019), the IEEE WCNC Best Student Paper Award (2019), the IEEE Globecom Best Paper Award (2022), and the the IEEE ICC Best Paper Award (2025). With over 12,000 citations (h-index = 49), his contributions to wireless communications are widely recognized in the field.
+
+Beyond research, David has led interdisciplinary teams that combine wireless technology with data science and machine learning, involving large number of researchers. He has also been actively involved in projects with the Next Generation Mobile Networks Alliance and has served as an editor for IEEE Transactions on Wireless Communications.
 
 ## Contact
-E-mail: {{< clipboard text=" cjbc@it.uc3m.es" font="'Courier New', Consolas, monospace" >}}
+E-mail: {{< clipboard text="d.lopez@iteam.upv.es" font="'Courier New', Consolas, monospace" >}}
 
-
-[Bio](https://www.it.uc3m.es/cjbc/)
-[Google Scholar](https://scholar.google.com.br/citations?hl=en&user=sBFY1zkAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=falr85sAAAAJ&hl=es)
 
 
 ## Affiliation
-Universidad Carlos III de Madrid
+Universitat Politècnica de València
 
 
 ## Resources and Materials
 
-[FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
+[FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams) \
+[Personal website](http://davidlopezperez.com/about-me/)
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xf3vegRBgJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lMptr7rmdco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+-->
 ---
 
-**Save the date:**  April, 14th, 2026.
+**Save the date:**  May, 14th, 2026.

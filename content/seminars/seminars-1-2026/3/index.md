@@ -1,10 +1,10 @@
 ---
 title: "From the Internet of Musical Things to the Musical Metaverse: enabling technologies and open challenges"
-date: 2026-03-25T00:00:00-03:00
+date: 2026-03-26T00:00:00-03:00
 draft: false
 tags: ["Internet of Musical Things", "Musical Metaverse", "Extended Reality"]
 series: ["Seminars-1-2026"]
-series_order: 2
+series_order: 3
 seminarist: "Luca Turchet"
 date_to_display: "2026-05-28"
 ---
