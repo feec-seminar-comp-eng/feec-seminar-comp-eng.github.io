@@ -1,54 +1,40 @@
 ---
-title: "From Ground to Sky: Enhancing UAV Connectivity with 5G and Beyond"
+title: "Human-AI Collaboration"
 date: 2026-03-24T00:00:00-03:00
 draft: false
-tags: ["UAV Communications", "5G Networks", "Interference Management"]
+tags: ["Human–AI Collaboration", "Ethical AI and Trustworthy Systems", "Critical Thinking in the Age of AI"]
 series: ["Seminars-1-2026"]
 series_order: 2
-seminarist: "David López-Pérez"
-date_to_display: "2026-05-14"
+seminarist: "Neeli Prasad"
+date_to_display: "2026-04-23"
 ---
 
 ## Abstract
 
-Unmanned Aerial Vehicles (UAVs), commonly known as drones, are rapidly emerging as a key component of next-generation wireless ecosystems, enabling a wide range of applications from surveillance and emergency response to logistics and infrastructure monitoring. This talk provides an overview of UAV communications, highlighting their potential benefits in terms of flexibility, mobility, and rapid deployment. We discuss the communication requirements defined by 3GPP for UAV operations, including reliability, latency, coverage, and safety considerations. The talk also examines the fundamental challenges of integrating UAVs into existing cellular networks, such as interference management, mobility support, and spectrum sharing. Furthermore, we explore how 5G technologies can address these challenges, presenting potential solutions and implementation strategies for enabling efficient and safe UAV communications. Finally, we outline future research directions and opportunities, including the role of UAVs in advanced use cases such as aerial highways and large-scale autonomous systems.
+This talk presents a comprehensive perspective on the evolving relationship between humans and artificial intelligence, emphasizing that the future of AI lies not in human replacement, but in meaningful and effective human–AI collaboration. The discussion explores both the opportunities and risks associated with AI, including challenges such as misinformation, cyber fraud, and the misuse of deepfake technologies. It highlights the importance of embedding core human values—particularly empathy, ethics, and trust—into the design and deployment of AI systems. Through practical examples, including the limitations of traditional chatbots, she illustrates how human-centric AI co-pilots can significantly enhance user experience when guided by these principles. Further outlining the essential skills required in an AI-driven world, stressing the importance of precise questioning, source verification, and sound judgment. For both students and professionals, and identifies critical thinking, evaluation, and system-level understanding as key differentiators in an era where content generation is increasingly automated. From a leadership perspective, the talk underscores the importance of designing AI solutions as integrated, value-driven systems rather than standalone tools. It advocates for clear accountability, robust guardrails, and continuous feedback mechanisms to ensure responsible, transparent, and inclusive deployment. In conclusion, the talk reinforces a central message: while AI can significantly enhance efficiency and scalability, uniquely human qualities—particularly empathy and ethical responsibility—remain irreplaceable. Ensuring human dignity in the age of AI is essential for building technology that benefits society as a whole.
 
 ## Bio
 
-<img alt="David López-Pérez" src="/seminars/seminars-1-2026/2/david_lopes-perez.png" style="width: 40%; height: 160x;">
+<img alt="Neeli Prasad" src="/seminars/seminars-1-2026/2/neeli_prasad.png" style="width: 40%; height: 160x;">
 
-Dr. David López-Pérez is an expert in wireless communications, focused on making networks like cellular and Wi-Fi faster, smarter, and more energy-efficient. Since February 2023, he’s been a Distinguished Researcher at the Universitat Politècnica de València, working with the Institute for Telecommunications and Multimedia Applications (iTEAM). His work revolves around solving real-world challenges in data-driven network modeling and optimization, applying machine learning to networks, and developing technologies for greener and more sustainable networking.
-
-David’s career is a mix of academic achievements and hands-on industry experience. He earned his PhD in wireless communications from the University of Bedfordshire, UK, as a Marie Curie Fellow, followed by postdoctoral research at King’s College London. In the telecom industry, David held senior roles at some of the biggest global companies.
-
-At Nokia Bell Labs in Dublin, he climbed the ranks from Research Engineer to Distinguished Member of Technical Staff (DMTS), working on a variety of advanced projects. His research covered topics like small cells, ultra-dense networks, massive MIMO, cellular and Wi-Fi inter-working, and the development of Wi-Fi 7 technologies.
-
-Later, at Huawei Technologies in Paris, David served as an Expert and Technical Leader, where he led projects on data-driven network modelling and optimization, machine learning for network automation, and enhancing network energy efficiency and drone communications.
-
-David has published widely, with three books, 13 book chapters, and over 189 papers, including 76 journal articles in top-tier publications. He’s also filed 59 patent applications. His current research interests span areas like 6G, cm-wave operation, ultra-dense networks, non-terrestrial networks, drone communications, energy efficiency, and leveraging big data and machine learning to improve wireless systems.
-
-His work has earned him several prestigious awards, including the IEEE ComSoc Best Young Professional in Industry Award (2016), the Bell Labs Distinguished Member of Technical Staff (2019), the IEEE WCNC Best Student Paper Award (2019), the IEEE Globecom Best Paper Award (2022), and the the IEEE ICC Best Paper Award (2025). With over 12,000 citations (h-index = 49), his contributions to wireless communications are widely recognized in the field.
-
-Beyond research, David has led interdisciplinary teams that combine wireless technology with data science and machine learning, involving large number of researchers. He has also been actively involved in projects with the Next Generation Mobile Networks Alliance and has served as an editor for IEEE Transactions on Wireless Communications.
+Neeli Prasad is a globally recognized technology executive, CEO & Co-Founder of SmartAvatar B.V. based in Netherlands , and thought leader with extensive experience in driving innovation, strategic growth, and international expansion. With deep domain expertise spanning telecommunications, cybersecurity, artificial intelligence, and wireless technologies, she has consistently played a pivotal role in advancing next-generation communication systems and digital transformation initiatives.  Over the course of her career, Dr. Prasad has led the full innovation lifecycle—from research and incubation to prototyping and large-scale validation—successfully bridging the gap between emerging technologies and real-world deployment. Her leadership has enabled organizations to accelerate growth, strengthen their technological capabilities, and deliver impactful solutions in highly competitive global markets.  In parallel with her industry contributions, Dr. Prasad maintains a strong commitment to professional service and community engagement through IEEE. She serves as an elected Member of the Board of Governors for the IEEE Vehicular Technology Society and holds the role of Vice President for Membership. She has also contributed to IEEE Women in Engineering as Treasurer, actively supporting diversity, inclusion, and the advancement of women in technical fields.  A sought-after speaker and respected voice in the industry, Dr. Prasad is regularly invited to present at international conferences and forums, where she shares insights on emerging technologies, innovation ecosystems, and leadership. Her work continues to influence the evolution of the technology landscape, while her dedication to mentorship and collaboration positions her as a role model for future generations of engineers and leaders.
 
 ## Contact
-E-mail: {{< clipboard text="d.lopez@iteam.upv.es" font="'Courier New', Consolas, monospace" >}}
+E-mail: {{< clipboard text="neeli.prasad@smartavatar.nl" font="'Courier New', Consolas, monospace" >}}
 
-[Google Scholar](https://scholar.google.com/citations?user=falr85sAAAAJ&hl=es)
-
+[Google Scholar](https://scholar.google.com/citations?user=Nscc4i4AAAAJ&hl=en)
 
 ## Affiliation
-Universitat Politècnica de València
+SmartAvatar B.V.
 
 
 ## Resources and Materials
 
-[FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams) \
-[Personal website](http://davidlopezperez.com/about-me/)
+[FEEC UNICAMP streams](https://www.youtube.com/@feec-unicamp/streams)
 
 <!--
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMptr7rmdco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 ---
 
-**Save the date:**  May, 14th, 2026.
+**Save the date:**  April, 23th, 2026.
