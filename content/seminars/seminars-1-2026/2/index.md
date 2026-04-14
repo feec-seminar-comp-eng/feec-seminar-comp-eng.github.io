@@ -5,7 +5,7 @@ draft: false
 tags: ["Standardization", "6G Networks", "Tech Transfer"]
 series: ["Seminars-1-2026"]
 series_order: 2
-seminarist: ""
+seminarist: "Carlos Jesús Bernardos Cano"
 date_to_display: "2026-04-14"
 ---
 
