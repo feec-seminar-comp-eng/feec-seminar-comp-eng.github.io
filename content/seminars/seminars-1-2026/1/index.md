@@ -6,7 +6,7 @@ tags: ["Standardization", "6G Networks", "Tech Transfer"]
 series: ["Seminars-1-2026"]
 series_order: 1
 seminarist: "Carlos Jesús Bernardos Cano"
-date_to_display: "2026-04-14"
+date_to_display: "2026-04-16"
 ---
 
 ## Abstract
@@ -40,4 +40,4 @@ Universidad Carlos III de Madrid
 
 ---
 
-**Save the date:**  April, 14th, 2026.
+**Save the date:**  April, 16th, 2026.
