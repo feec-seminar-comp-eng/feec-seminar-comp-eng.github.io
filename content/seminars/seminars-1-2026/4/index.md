@@ -1,33 +1,34 @@
 ---
-title: "From the Internet of Musical Things to the Musical Metaverse: enabling technologies and open challenges"
+title: "Traffic and Energy Load Balancing in Cooperative Dual-Powered Green Cellular Networks"
 date: 2026-03-26T00:00:00-03:00
 draft: false
-tags: ["Internet of Musical Things", "Musical Metaverse", "Extended Reality"]
+tags: ["energy harvesting", "green cellular networks", "base station optimization"]
 series: ["Seminars-1-2026"]
 series_order: 4
-seminarist: "Luca Turchet"
-date_to_display: "2026-05-28"
+seminarist: "Swades De"
+date_to_display: "2026-05-07"
 ---
 
 ## Abstract
 
-This talk will introduce the Internet of Musical Things, an emerging area in music technology research that extends the Internet of Things paradigm to the musical domain. Several examples of connected and intelligent devices for musicians and audiences will be discussed, along with networking technologies that support musical interactions. The talk will then explore the intersection of the Internet of Musical Things with extended reality technologies, leading to the nascent paradigm of the Musical Metaverse. Various enabling technologies for immersive and collaborative musical experiences will be presented, which target both audiences and musicians. Finally, the talk will conclude with a critical discussion on the technological and non-technological challenges facing the Musical Metaverse, which are currently being addressed by the MUSMET project, funded by the European Innovation Council (https://musmet.eu/).
+Power consumption in cellular wireless communication base stations is a significant cost factor for the service providers. Further, it significantly adds to the global carbon footprint. To this end, ambient-powered wireless base stations are being explored. In this presentation, we will present the case of networked cellular base stations that are equipped with solar/ambient energy harvesting capability as well as they are connected to the power grid for their uninterrupted operation. Since the ambient energy availability as well as cell traffic are stochastic processes, we demonstrate the need for inter-base station cooperation for dealing with this doubly-stochastic processes at potentially reduced grid power consumption cost. Under such inter-base station cooperative scenario, we investigate the energy harvesting and storage capacity and operation optimization strategies for operator revenue maximization and/or green cellular operation. Beyond the CAPEX optimization, implementation of the proposed strategies require only software intervention at the Radio Network Controller or Remote Radio Units.
+
 
 ## Bio
 
-<img alt="Luca Turchet" src="/seminars/seminars-1-2026/4/luca_turchet.png" style="width: 40%; height: 160x;">
+<img alt="Swades De" src="/seminars/seminars-1-2026/4/swades_de.png" style="width: 40%; height: 160x;">
 
-Luca Turchet is an Associate Professor at the Department of Information Engineering and Computer Science of the University of Trento, Italy, where he directs the Creative Intelligent and Multisensory Interactions Laboratory (https://www.cimil.disi.unitn.it/). He received master’s degrees (summa cum laude) in Computer Science from University of Verona, in classical guitar and composition from the Music Conservatory of Verona, and in electronic music from the Royal College of Music of Stockholm. He received the Ph.D. in Media Technology from Aalborg University Copenhagen. His scientific, artistic, and entrepreneurial research has been supported by numerous grants from different funding agencies including the European Commission, the European Innovation Council, the European Institute of Innovation and Technology, the European Space Agency, the Italian Ministry of University and Research, and the Danish Research Council. He is co-founder of the music-tech company Elk Audio. He is the Chair of the IEEE Emerging Technology Initiative on the Internet of Sounds (a technical committee of the IEEE Communications Society) and the founding president of the Internet of Sounds Research Network. Since 2025 he is an IEEE ComSoc Distinguished Lecturer. He is author and co-author of more than 200 papers focusing on music technology, extended reality, Internet of Things, human-computer interaction and multisensory perception. He served as an Associate Editor for IEEE Transactions on Human-Machine Systems, IEEE Access and the Journal of the Audio Engineering Society, and has been guest editor for the IEEE Transactions on Haptics, IEEE Communications Magazine, IEEE Technology and Society, Personal and Ubiquitous Computing, Journal of the Audio Engineering Society, Frontiers in VR, and Digital Creativity. He is the coordinator of the project “Musical Metaverse made in Europe” funded by the European Innovation Council (https://musmet.eu/).
+Swades De (web.iitd.ac.in/~swadesd) received his PhD in Electrical Engineering from the State Univ. of New York at Buffalo, USA, in 2004, MTech in Optoelectronics and Optical Communications from IIT Delhi in 1998, and BTech in Radiophysics and Electronics from University of Calcutta in 1993. He is currently a Senior Professor with the Department of Electrical Engineering and Dhananjaya Chair Professor at Indian Institute of Technology Delhi. Before moving to IIT Delhi in 2007, he was a Tenure-Track Assistant Professor with the Department of ECE, New Jersey Institute of Technology, Newark, NJ, USA, from 2004–2007. He worked as an ERCIM Post-doctoral Researcher at ISTI-CNR, Pisa, Italy (2004), and has nearly five years of industry experience in India on telecom hardware and software development, from 1993–1997, 1999. His research interests are broadly in communication networks, with emphasis on performance modeling and analysis. Current directions include energy sustainable and green communications, in-band coexistence and spectrum sharer communications, IoT communications, and smart grid networks. Dr. De is a fellow of Indian National Academy of Engineering (INAE), Indian National Science Academy (INSA),  The National Academy of Sciences, India (NASI), and Indian Academy of Sciences (IASc). He is a recipient of Abdul Kalam National Technology Innovation Fellowship. Dr. De currently serves as an Editor of IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, and IEEE Wireless Communications Magazine.
 
 ## Contact
-E-mail: {{< clipboard text="luca.turchet@unitn.it" font="'Courier New', Consolas, monospace" >}}
+E-mail: {{< clipboard text="swadesd@ee.iitd.ac.in" font="'Courier New', Consolas, monospace" >}}
 
-<!--
-[Google Scholar](https://scholar.google.com/citations?user=falr85sAAAAJ&hl=es)
--->
+
+[Google Scholar](https://scholar.google.co.in/citations?user=BfVMzzkAAAAJ&hl=en) \
+[Personal Website](https://web.iitd.ac.in/~swadesd/) 
 
 ## Affiliation
-University of Trento, Italy
+Indian Institute of Technology Delhi, New Delhi, India
 
 
 ## Resources and Materials
@@ -39,4 +40,4 @@ University of Trento, Italy
 -->
 ---
 
-**Save the date:**  May, 28th, 2026.
+**Save the date:**  May, 7th, 2026.
