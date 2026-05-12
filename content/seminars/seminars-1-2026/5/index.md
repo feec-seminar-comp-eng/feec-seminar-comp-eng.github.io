@@ -1,5 +1,5 @@
 ---
-title: "From Ground to Sky: Enhancing UAV Connectivity with 5G and Beyond"
+title: "From Ground to Sky: Enhancing UAV Connectivity with 5G and Beyond (IEEE Distinguished Lecture)"
 date: 2026-03-27T00:00:00-03:00
 draft: false
 tags: ["UAV Communications", "5G Networks", "Interference Management"]
