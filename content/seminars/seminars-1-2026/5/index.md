@@ -1,5 +1,5 @@
 ---
-title: "From Ground to Sky: Enhancing UAV Connectivity with 5G and Beyond"
+title: "From Ground to Sky: Enhancing UAV Connectivity with 5G and Beyond (IEEE Distinguished Lecture)"
 date: 2026-03-27T00:00:00-03:00
 draft: false
 tags: ["UAV Communications", "5G Networks", "Interference Management"]
@@ -15,7 +15,7 @@ Unmanned Aerial Vehicles (UAVs), commonly known as drones, are rapidly emerging 
 
 ## Bio
 
-<img alt="David López-Pérez" src="/seminars/seminars-1-2026/3/david_lopes-perez.png" style="width: 40%; height: 160x;">
+<img alt="David López-Pérez" src="/seminars/seminars-1-2026/5/david_lopes-perez.png" style="width: 40%; height: 160x;">
 
 Dr. David López-Pérez is an expert in wireless communications, focused on making networks like cellular and Wi-Fi faster, smarter, and more energy-efficient. Since February 2023, he’s been a Distinguished Researcher at the Universitat Politècnica de València, working with the Institute for Telecommunications and Multimedia Applications (iTEAM). His work revolves around solving real-world challenges in data-driven network modeling and optimization, applying machine learning to networks, and developing technologies for greener and more sustainable networking.
 
